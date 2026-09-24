@@ -1,0 +1,206 @@
+{
+  "patient": "Jordon Dubois",
+  "condition": "Serotonin Syndrome",
+  "thinking": "I'm acting as a clinical assistant to interview Jordon Dubois for their PCP, focusing on fact-finding. Given Jordon's depression diagnosis and Fluoxetine prescription, I'll use clinical reasoning to guide my questions, aiming to differentiate potential diagnoses and probe for critical clues. I'll ask one question at a time, keeping them concise and within the word limit. My goal is to be exhaustive in my inquiry, gathering comprehensive information for the doctor's report.\n",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I haven't been feeling well at all. I'm really agitated and restless, and I'm also confused and disoriented. It's pretty concerning.\n",
+      "audio": "/sim/audio/770ace970041accbe65d21dde1e3d0c44ef43021.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports feeling unwell with new onset agitation, restlessness, confusion, and disorientation. Onset and duration not specified. Severity not specified. No associated symptoms reported.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did these feelings of agitation, restlessness, confusion, and disorientation begin?",
+      "audio": "/sim/audio/74fbc659f4984bc4cc8c76e006b72986799acbc0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "About two days ago, I started feeling really off. It kind of came on suddenly.\n",
+      "audio": "/sim/audio/dd9d36fa840e259121e79e6d451ee6cad7705ba4.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Severity not specified. Denies associated symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the agitation and restlessness you are experiencing?",
+      "audio": "/sim/audio/ddd38c753c06bcc46e00debb97d7f7414355a2e9.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's like I can't sit still. I'm constantly fidgeting, pacing around. I feel on edge, like I need to be doing something, but I don't know what. It's really uncomfortable.\n",
+      "audio": "/sim/audio/485090727b4f99da1ca5cf120e1deb86645cde6e.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Severity not specified. Denies associated symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any changes in your sleep patterns recently?",
+      "audio": "/sim/audio/58b47ae10945ff94ce43e6890b578a622b5d0f6d.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Not really. I've been sleeping about the same as usual, maybe a little less.\n",
+      "audio": "/sim/audio/e19d18bd26f7c1a0ee5af30dfa66c59b06ee6f4f.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Denies associated symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are you experiencing any physical symptoms, such as fever, chills, or body aches?",
+      "audio": "/sim/audio/b50a73bc0662736d5d93226d30c9dc750ed10b9e.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I've been sweating a lot, and sometimes I get the shivers. My muscles feel really stiff, too. And I think my temperature might be up, but I don't have a thermometer to check.\n",
+      "audio": "/sim/audio/f76d52ea1a63d75a20d73cc31d70d148d822c998.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, and generalized myalgias. Denies fever (subjective).\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any changes in your heart rate or breathing?",
+      "audio": "/sim/audio/a2964003f1f4ffb693f5e8564cf78c2b4c844adc.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, my heart's been racing like crazy. I haven't really paid attention to my breathing, but my heart is definitely beating fast. And I think my blood pressure is high, too, but I don't have a way to check that either.\n",
+      "audio": "/sim/audio/421462e0f80c7891ffcad08bf8d9f236c5cbeb1a.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, and subjective fever. Denies shortness of breath.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any visual disturbances or changes in your perception?",
+      "audio": "/sim/audio/434fd396e1efc5caf1af2021c0e29f8ee80e321a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, my pupils seem really big, and my eyes are moving strangely. I can't really control it.\n",
+      "audio": "/sim/audio/00aa0048843b93a53003927fef3497134eeaba68.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, and subjective fever. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent changes to your medications or dosages?",
+      "audio": "/sim/audio/7cd256b824d0725e1e8afd2f35f357d9987c95cc.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, no changes to my medications.\n",
+      "audio": "/sim/audio/28189ebe14998dcccdb9c5520553ffa3724862af.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, and subjective fever. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to medications or dosages.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you consumed any alcohol, recreational drugs, or new supplements recently?",
+      "audio": "/sim/audio/1e2713d400390ddf97f92c2bd3d0976b75b6fff6.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any alcohol, drugs, or new supplements. But I was coughing a lot and took some cough syrup.\n",
+      "audio": "/sim/audio/2385d07f79fd15b6c2a8c52b8eb14d05061ccac0.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, and subjective fever. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "What is the name of the cough syrup you took, and when did you take it?",
+      "audio": "/sim/audio/936af11b78746927697558bf844fcca88a1595f1.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It was just some over-the-counter stuff...dextromethorphan, I think. I took it yesterday and the day before because of the cough.\n",
+      "audio": "/sim/audio/90de1d167e45a0dc2c8d71a0f13232bb577d5c39.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, and subjective fever. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Did you take more than the recommended dose of the cough syrup?",
+      "audio": "/sim/audio/0c66595f072c4dfc43a701b2575cc185a5315576.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I don't think so. I tried to follow the directions on the bottle.\n",
+      "audio": "/sim/audio/1a9dd88ef0c6b416c8e010134a021f7e513d4b25.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, and subjective fever. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior, adhering to recommended dosage. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any nausea, vomiting, or diarrhea?",
+      "audio": "/sim/audio/c60a1308f6a6020ae6da686fb797a39c94969385.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I might have diarrhea.\n",
+      "audio": "/sim/audio/7fa60e375c7a97323b0607bdf2e54fd93a84165e.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, subjective fever, and possible diarrhea. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior, adhering to recommended dosage. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the diarrhea? How frequent is it?",
+      "audio": "/sim/audio/825733e9e5e66d1c7edc4fd3a511c30576b9a737.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's not constant, but I've had to go to the bathroom more often than usual. Maybe three or four times today? It's pretty loose.\n",
+      "audio": "/sim/audio/4e5076d1087847b69fef0cdc83586b4fb2dc5b2f.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, subjective fever, and diarrhea (approximately 3-4 loose stools today). Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior, adhering to recommended dosage. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any difficulty urinating or changes in your urine output?",
+      "audio": "/sim/audio/51cd96b1f7dd7b08686da135d75d27e9d38ea1a6.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't noticed any problems with that.\n",
+      "audio": "/sim/audio/f610c61ced04571c09290485f20215f14ea42780.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, subjective fever, diarrhea (approximately 3-4 loose stools today), and urinary function is normal. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior, adhering to recommended dosage. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any recent head trauma or injury?",
+      "audio": "/sim/audio/04b84474d016b09b4af3b3cc80fd5bbd9a25faad.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any recent head trauma or injury.\n",
+      "audio": "/sim/audio/387ab22c2d3d497402d026306bd02e1c3e52df00.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, subjective fever, diarrhea (approximately 3-4 loose stools today), and urinary function is normal. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Denies recent head trauma or injury. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior, adhering to recommended dosage. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled outside of your local area recently?",
+      "audio": "/sim/audio/82114fd81b8b3068d4bb6ddebd2d9213769fe5e2.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't traveled recently.\n",
+      "audio": "/sim/audio/055d2c7895b3269403a48ed6a13933332ea47b52.mp3",
+      "report": "### Primary concern:\n\nAgitation, restlessness, confusion, and disorientation.\n\n### History of Present Illness (HPI):\n\nPatient reports new onset agitation, restlessness, confusion, and disorientation, beginning approximately two days ago with sudden onset. Describes agitation as inability to sit still, constant fidgeting, pacing, and feeling \"on edge.\" Reports sleep patterns are largely unchanged, possibly slightly decreased duration. Also reports diaphoresis, intermittent chills, generalized myalgias, tachycardia, subjective fever, diarrhea (approximately 3-4 loose stools today), and normal urinary function. Reports visual disturbances including mydriasis and nystagmus. Denies shortness of breath. Denies recent head trauma or injury. Denies recent travel outside local area. Patient denies any recent changes to prescribed medications or dosages. Patient reports recent use of over-the-counter cough syrup containing dextromethorphan, taken yesterday and the day prior, adhering to recommended dosage. Denies alcohol, recreational drug, or new supplement use.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily.\n*   Over-the-counter cough syrup containing dextromethorphan (recent use)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Mental Status Changes:</b> Reports agitation, restlessness, confusion, and disorientation.</li>\n    <li><b>Sudden Onset:</b> Symptoms began approximately two days ago with sudden onset.</li>\n    <li><b>Autonomic Instability Signs:</b> Reports diaphoresis (sweating), intermittent chills, tachycardia (fast heart rate), subjective fever, and diarrhea.</li>\n    <li><b>Ocular Signs:</b> Reports visual disturbances including mydriasis (dilated pupils) and nystagmus (involuntary eye movements).</li>\n    <li><b>Known Serotonergic Medication:</b> Patient is taking Fluoxetine (an SSRI), a known serotonergic agent.</li>\n    <li><b>Recent Serotonergic Agent Use:</b> Patient reports recent use of an over-the-counter cough syrup containing dextromethorphan, another serotonergic agent.</li>\n    <li><b>Negative History for Alternatives:</b> Denies recent head trauma, travel, alcohol, recreational drug use, or new supplement use, helping to rule out other potential causes for the symptoms.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Objective Vital Signs:</b> Lack of objective measurements for temperature (to confirm fever/hyperthermia), heart rate (to confirm tachycardia), and blood pressure (to assess for hypertension).</li>\n    <li><b>Neuromuscular Hyperactivity Assessment:</b> No information regarding potential neuromuscular signs such as tremor, hyperreflexia (brisk reflexes), myoclonus (muscle jerks), rigidity, or ataxia (unsteady gait). This is a key component of Serotonin Syndrome.</li>\n    <li><b>Detailed Medication History Review:</b> While Fluoxetine and Dextromethorphan are noted, the report doesn't confirm the start date/duration of Fluoxetine or explicitly rule out *other* potential serotonergic medications (prescription or OTC) the patient might be taking (e.g., tramadol, linezolid, St. John's Wort, other antidepressants, triptans).</li>\n    <li><b>Physical Examination Findings:</b> Absence of any physical exam findings, which would be crucial for assessing neuromuscular signs (reflexes, clonus, rigidity) and autonomic signs (pupils, skin).</li>\n    <li><b>Severity Assessment:</b> No description of the severity of the symptoms (e.g., degree of confusion, heart rate value, temperature value).</li>\n    <li><b>Timing of OTC Use Relative to Fluoxetine:</b> While recent use is noted, the exact timing relative to the start of Fluoxetine or any recent dose changes (even if denied) isn't specified.</li>\n</ul>"
+}

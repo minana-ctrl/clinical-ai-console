@@ -1,0 +1,206 @@
+{
+  "patient": "Jordon Dubois",
+  "condition": "Malaria",
+  "thinking": "I'm acting as a clinical assistant to interview Jordon Dubois for their PCP, focusing on fact-finding. Given Jordon's depression diagnosis and Fluoxetine prescription, I'll use clinical reasoning to guide my questions, aiming to differentiate potential diagnoses and probe for critical clues. I'll ask one question at a time, keeping them concise and within the word limit. My goal is to be exhaustive in my inquiry, gathering comprehensive information for the doctor's report.\n",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've been feeling really sick. I have a high fever, chills, and a terrible headache.\n",
+      "audio": "/sim/audio/acd21cdf70eb38c38fe92f5ee7896f77af10e3c5.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, and headache.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms today. Describes symptoms as high fever, chills, and severe headache. Denies shortness of breath, cough, sore throat, nausea, vomiting, diarrhea, or body aches.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did these symptoms first begin?",
+      "audio": "/sim/audio/0b4c461c07ee59b116e9424ced3993b144b7e6c0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "About three days ago.\n",
+      "audio": "/sim/audio/3e3180bb317e981c42a05f698137147bd2a4aacc.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, and headache.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, and severe headache. Denies shortness of breath, cough, sore throat, nausea, vomiting, diarrhea, or body aches.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the headache? Is it throbbing, sharp, or dull?",
+      "audio": "/sim/audio/de5dc59759a21942169eb544dbba8bcfba4fb175.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a throbbing headache, mostly. It feels like someone is constantly hitting me over the head.\n",
+      "audio": "/sim/audio/5234631b8dfe4628171d8bbbc940780363cc1197.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, and headache.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, and severe, throbbing headache. Denies shortness of breath, cough, sore throat, nausea, vomiting, diarrhea, or body aches.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any nausea or vomiting with the headache?",
+      "audio": "/sim/audio/c640de2ae152997a7017e542185292665bc7839a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, I think I might have felt a little nauseous, but I haven't actually thrown up.\n",
+      "audio": "/sim/audio/99a8055eb3fd1d2aa34122760587007251b8c793.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, and headache.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, and severe, throbbing headache. Reports mild nausea. Denies vomiting, shortness of breath, cough, sore throat, or diarrhea.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "What is the highest temperature you have measured?",
+      "audio": "/sim/audio/4b06735dc8eccd2aeacfcf8f367625ca9199f05a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I haven't actually measured it myself, but I feel really hot.\n",
+      "audio": "/sim/audio/d1f88b7987f1a2be97bde73ddc367af91142b046.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, and headache.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, and severe, throbbing headache. Reports mild nausea. Denies vomiting, shortness of breath, cough, sore throat, or diarrhea. Patient reports subjective fever but has not measured temperature.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any body aches or muscle pain?",
+      "audio": "/sim/audio/8e169c310bca7e871e36c8582a5f431061e5fcd2.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, definitely. My muscles ache all over. I feel really weak too.\n",
+      "audio": "/sim/audio/c8f43ef1c1395cd374147132ff486b015ad9a35a.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, and generalized myalgias. Reports mild nausea. Denies vomiting, shortness of breath, cough, sore throat, or diarrhea. Patient reports subjective fever but has not measured temperature. Reports feeling weak.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any cough or shortness of breath?",
+      "audio": "/sim/audio/6c4d541016d0edfb0801dc9b8d5adc7bc99f60bc.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have a cough. I wouldn't say I'm short of breath, though.\n",
+      "audio": "/sim/audio/a7bf8fd48fe273517614e3092f5beb48c7cd4ec3.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, and cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, and cough. Reports mild nausea. Denies vomiting, shortness of breath, sore throat, or diarrhea. Patient reports subjective fever but has not measured temperature. Reports feeling weak.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the cough? Is it dry or productive?",
+      "audio": "/sim/audio/d21acdbfc2f39debd8186f5e920132786a545e73.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a dry cough. Nothing really comes up.\n",
+      "audio": "/sim/audio/a2961b33c2affe707a28bb0df1eacf3ec09d1fb9.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, and cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, and dry cough. Reports mild nausea. Denies vomiting, shortness of breath, sore throat, or diarrhea. Patient reports subjective fever but has not measured temperature. Reports feeling weak.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any sore throat or runny nose?",
+      "audio": "/sim/audio/ff3a85bc9b2b9437702bf2dc959e9ff5dadc7022.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had a sore throat or runny nose.\n",
+      "audio": "/sim/audio/492926e9789716956ebf2846e1aac1a666f813b0.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, and cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, and dry cough. Reports mild nausea. Denies vomiting, shortness of breath, sore throat, or diarrhea. Patient reports subjective fever but has not measured temperature. Reports feeling weak.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any changes in your bowel habits or diarrhea?",
+      "audio": "/sim/audio/480e6f287853ac2fafebe2b8c83e6b93634aadc4.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I've had some diarrhea and abdominal pain.\n",
+      "audio": "/sim/audio/02e5d512bb97e41452a37a17be6d480aa82a164e.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat. Patient reports subjective fever but has not measured temperature. Reports feeling weak.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did the diarrhea and abdominal pain start?",
+      "audio": "/sim/audio/13de56799d748bf98b9cbc271ab07222661e97c8.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "About the same time as everything else, three days ago.\n",
+      "audio": "/sim/audio/3f96a2d5dea0551407bf0f900fdde9a6253bb02c.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat. Patient reports subjective fever but has not measured temperature. Reports feeling weak. Diarrhea and abdominal pain began concurrently with other symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled outside of the area recently?",
+      "audio": "/sim/audio/22f86c4d30c78a88415410eef57085a4bf1a7238.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I recently got back from a safari trip in Tanzania.\n",
+      "audio": "/sim/audio/de1085910dd48f3f83eaa4b2e25bab2c4c2934d5.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat. Patient reports subjective fever but has not measured temperature. Reports feeling weak. Diarrhea and abdominal pain began concurrently with other symptoms. Patient recently returned from a safari trip in Tanzania.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did you return from Tanzania?",
+      "audio": "/sim/audio/4148cc7ba27f26f120991fd7fe24d99728f8cdbb.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "About a week ago.\n",
+      "audio": "/sim/audio/174213c45f1ecd782f5d944f5bef9685102fb56b.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat. Patient reports subjective fever but has not measured temperature. Reports feeling weak. Diarrhea and abdominal pain began concurrently with other symptoms. Patient recently returned from a safari trip in Tanzania approximately one week ago.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Did you take any malaria preventative medication during your trip?",
+      "audio": "/sim/audio/e189abebc0ae96f32e65baeda92d230b23e4c300.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I didn't take any malaria medication.\n",
+      "audio": "/sim/audio/5320177c909bb74a7ee0388e22bd225c43f98cb8.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat. Patient reports subjective fever but has not measured temperature. Reports feeling weak. Diarrhea and abdominal pain began concurrently with other symptoms. Patient recently returned from a safari trip in Tanzania approximately one week ago. Patient denies taking malaria preventative medication during travel.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any skin rashes or unusual marks?",
+      "audio": "/sim/audio/12f613f44597b0224839eca4036172cb11957c1c.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't noticed any rashes or marks.\n",
+      "audio": "/sim/audio/43986c642409b799153dea56cf3ede6e57a38504.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat, skin rashes, or unusual marks. Patient reports subjective fever but has not measured temperature. Reports feeling weak. Diarrhea and abdominal pain began concurrently with other symptoms. Patient recently returned from a safari trip in Tanzania approximately one week ago. Patient denies taking malaria preventative medication during travel.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you been taking your Fluoxetine as prescribed?",
+      "audio": "/sim/audio/02c6cf55243741aee8acdf85c9026fea4687f1fd.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have.\n",
+      "audio": "/sim/audio/649fa160b4be155ab2b0249656d7520e42c98cb6.mp3",
+      "report": "### Primary concern:\n\nPatient presents with acute onset of fever, chills, headache, myalgias, cough, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of symptoms approximately three days ago. Describes symptoms as high fever, chills, severe, throbbing headache, generalized myalgias, dry cough, diarrhea, and abdominal pain. Reports mild nausea. Denies vomiting, shortness of breath, sore throat, skin rashes, or unusual marks. Patient reports subjective fever but has not measured temperature. Reports feeling weak. Diarrhea and abdominal pain began concurrently with other symptoms. Patient recently returned from a safari trip in Tanzania approximately one week ago. Patient denies taking malaria preventative medication during travel.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Acute onset of symptoms:</b> Consistent with many infectious processes, including Malaria.</li>\n    <li><b>Presence of core Malaria symptoms:</b> Fever (subjective), chills, headache, myalgias are classic symptoms.</li>\n    <li><b>Presence of associated symptoms:</b> Diarrhea, abdominal pain, nausea, and weakness are also commonly reported with Malaria.</li>\n    <li><b>Recent travel to a Malaria-endemic region:</b> Return from Tanzania (a known endemic area) approximately one week prior to symptom onset is a major risk factor.</li>\n    <li><b>Lack of malaria prophylaxis:</b> Patient denies taking preventative medication, significantly increasing the risk of infection after travel to an endemic area.</li>\n    <li><b>Timing of symptom onset:</b> Symptoms started ~3 days ago, which is ~4 days after returning, fitting within the typical incubation period for Malaria (usually 7-30 days, but can be shorter).</li>\n    <li><b>Denial of other specific symptoms:</b> Ruling out symptoms like sore throat or significant shortness of breath might help differentiate from other common respiratory infections, although overlap exists.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Objective Temperature Measurement:</b> The report notes \"subjective fever,\" but an actual temperature reading (e.g., 39.5°C) is crucial for assessing severity and tracking the illness. High fever is characteristic of Malaria.</li>\n    <li><b>Exact Travel Dates:</b> Knowing the precise dates of travel to Tanzania would allow for a more accurate calculation of the incubation period relative to potential exposure.</li>\n    <li><b>Details of Exposure Risk during Travel:</b> Information about the specific locations visited (rural vs. urban), time spent outdoors during dusk/dawn (peak mosquito biting times), and use of mosquito repellents or bed nets would help quantify the exposure risk.</li>\n    <li><b>History of Prior Malaria:</b> Knowing if the patient has had Malaria before could influence suspicion and management.</li>\n    <li><b>Specific Characterization of Symptoms:</b> While symptoms are listed, details like the *severity* of the headache or myalgias, or if the fever/chills have any cyclical pattern (though less common initially with *P. falciparum*), could be useful.</li>\n    <li><b>Complete Review of Systems (ROS):</b> A more thorough ROS might uncover other subtle signs or symptoms relevant to differential diagnoses (e.g., jaundice, lymphadenopathy, specific joint pain).</li>\n    <li><b>Basic Demographics/Social History:</b> While not directly diagnostic, age, occupation, and other social factors can sometimes be relevant context.</li>\n</ul>"
+}

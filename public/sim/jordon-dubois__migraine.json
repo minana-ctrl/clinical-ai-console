@@ -1,0 +1,230 @@
+{
+  "patient": "Jordon Dubois",
+  "condition": "Migraine",
+  "thinking": "I'm acting as a clinical assistant to interview Jordon Dubois for their PCP, focusing on fact-finding. Given Jordon's depression diagnosis and Fluoxetine prescription, I'll use clinical reasoning to guide my questions, aiming to differentiate potential diagnoses and probe for critical clues. I'll ask one question at a time, keeping them concise and within the word limit. My goal is to be exhaustive in my inquiry, gathering comprehensive information for the doctor's report.\n",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've been having these really bad headaches, and they're making it hard to do anything.\n",
+      "audio": "/sim/audio/6a84e29ebacdcd430ba98fc27911b052fbf80258.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe headaches. Onset and duration not specified. Quality, severity, timing, and modifying factors not specified. Pertinent negatives not specified.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did these headaches first begin?",
+      "audio": "/sim/audio/fcc588bf6fd61357188217a1679f63113214dedf.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "About two weeks ago, maybe a little longer.\n",
+      "audio": "/sim/audio/48ea6e7bf6c2dd90bbb6e03dc1d7a3786619825d.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe headaches with onset approximately two weeks ago. Quality, severity, timing, and modifying factors not specified. Pertinent negatives not specified.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the pain of the headaches?",
+      "audio": "/sim/audio/f33e28db0a1af7e115d13b64d5f23661cad85df0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's like a throbbing, pulsing pain, usually just on one side of my head. It's really intense.\n",
+      "audio": "/sim/audio/a017c4f4464854369e390afb6c2caff7479a7e0a.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Severity is intense. Timing, duration, and modifying factors not specified. Pertinent negatives not specified.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Where exactly on one side of your head do you feel the pain?",
+      "audio": "/sim/audio/0b5a96c54d95a973d536dcab6ba737050543bdb3.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's usually around my temple, sometimes behind my eye on that side.\n",
+      "audio": "/sim/audio/d6bb9d8f736a4823bd4233593e28a441fc1721c6.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Timing, duration, and modifying factors not specified. Pertinent negatives not specified.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed anything that seems to trigger these headaches?",
+      "audio": "/sim/audio/1e592fdce2ca2c50664f318fe05e6111e2ca18fa.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, moving around definitely makes them worse. And bright lights really bother my eyes. Loud noises too, they really get to me. Strong smells also seem to make it worse.\n",
+      "audio": "/sim/audio/edc95b8ab1ae49c3c60895772cdf658353c1977d.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Denies fever, neck stiffness, visual changes, or neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Do you experience any other symptoms when the headache occurs?",
+      "audio": "/sim/audio/d434833f3b9a984a93af217c6872a0c248bf129b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yeah, I feel really sick to my stomach, sometimes like I might throw up. And I get so tired, just completely worn out. Also, my neck feels stiff sometimes.\n",
+      "audio": "/sim/audio/f395020c2e3735c602822f7b7f1d4b04f0aaa7b4.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea and fatigue. Patient also reports intermittent neck stiffness. Denies fever, visual changes, or neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you tried any medications or treatments for these headaches?",
+      "audio": "/sim/audio/fb7eb96b2c8f2e285576dcd92ae2acda3039719e.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't tried anything yet. I usually just try to lie down in a dark, quiet room, but it doesn't always help.\n",
+      "audio": "/sim/audio/2c0501023ff01e24770f78b5e6024154da7bc52a.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, visual changes, or neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How often are you experiencing these headaches?",
+      "audio": "/sim/audio/a281206185b4f948e59465f6deb88d15dc120b40.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's been happening about three or four times a week.\n",
+      "audio": "/sim/audio/6cfd9c45a0f5b53a0e91c20376227fd61734c36f.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, visual changes, or neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How long does each headache typically last?",
+      "audio": "/sim/audio/fcf71784039971707cf1c44d1da98b2323750f61.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "They usually last for several hours, sometimes the whole day. It's hard to say exactly.\n",
+      "audio": "/sim/audio/a2cee9782e2cd2a5fc976d57dfc10d46ab67ea23.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, visual changes, or neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any changes in your vision recently?",
+      "audio": "/sim/audio/237a7e62f3f098f2e533d76e2cb0d873595fd9a4.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Well, sometimes I think I see flashing lights or zigzags before the headache starts. It doesn't happen every time, though.\n",
+      "audio": "/sim/audio/9719cf59be3b5c7a6552edcdc05b97c1d09a557e.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Do you have any family history of headaches or migraines?",
+      "audio": "/sim/audio/c2d3329e4d3b65934b78d5e3f57ad8f0c3aea2fb.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Not that I know of.\n",
+      "audio": "/sim/audio/d1c7e011435590af37ba552062538518482209d9.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits.\n\n### Relevant Medical History (from EHR): \n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any recent stress or changes in your daily routine?",
+      "audio": "/sim/audio/6ce7a2a4e698dfc2319b1b4b2c1d6afa959e595c.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Not really, no. Things have been pretty normal, I guess.\n",
+      "audio": "/sim/audio/81ca7c6454e05b9ef7b576ae4234e2c3b52e0687.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits. Reports no recent significant stress or changes in daily routine.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent illnesses, like a cold or the flu?",
+      "audio": "/sim/audio/59a71f5bd6a5ab2a3415a12feb525f4d474368e3.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't been sick with a cold or the flu recently.\n",
+      "audio": "/sim/audio/e7770adbb25e7fc77422d93830881ead5479738a.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits, recent illnesses (cold/flu). Reports no recent significant stress or changes in daily routine.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled outside of your local area in the past month?",
+      "audio": "/sim/audio/6284afaa5fa3e62b5f61e409a8a101bc0783de88.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.\n",
+      "audio": "/sim/audio/6d5838d875f2a1159520c9cbf73407c15cee6853.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits, recent illnesses (cold/flu). Reports no recent significant stress or changes in daily routine. Denies recent travel outside of local area.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are you experiencing any difficulty with your sleep?",
+      "audio": "/sim/audio/0a719cdefe7dfbce787291e4a918eb8f28821814.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I'm sleeping okay.\n",
+      "audio": "/sim/audio/a37d7a51c7c8263a7524cc5fcd915a122ba8fe25.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits, recent illnesses (cold/flu). Reports no recent significant stress or changes in daily routine. Denies recent travel outside of local area. Reports sleeping okay.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any changes in your mood or energy levels, aside from the headaches?",
+      "audio": "/sim/audio/824241213efe75b56f8e14324de239775434c805.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Well, I have been feeling pretty tired, but I think that's just from the headaches. I do have a history of depression, if that's what you mean. I take medication for it.\n",
+      "audio": "/sim/audio/77dc8e6015d126fbe5bac4ab76eab17512a74a89.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits, recent illnesses (cold/flu). Reports no recent significant stress or changes in daily routine. Denies recent travel outside of local area. Reports sleeping okay. Patient notes fatigue but attributes it to headaches; confirms history of depression, currently managed with medication.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are you taking your Fluoxetine as prescribed?",
+      "audio": "/sim/audio/8fe105b416db914f30f52068c5815eb3acbca907.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I am.\n",
+      "audio": "/sim/audio/508987dfd002edb098bec501463a1a8a8716547e.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits, recent illnesses (cold/flu). Reports no recent significant stress or changes in daily routine. Denies recent travel outside of local area. Reports sleeping okay. Patient notes fatigue but attributes it to headaches; confirms history of depression, currently managed with medication. Patient confirms adherence to prescribed Fluoxetine.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent injuries, especially to your head or neck?",
+      "audio": "/sim/audio/43984b7ac1216184f633367ea53b5df8d7c8079b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any recent injuries.\n",
+      "audio": "/sim/audio/0e5541d756b1defba69b889cae6fbae149c94adc.mp3",
+      "report": "### Primary concern:\n\nHeadaches.\n\n### History of Present Illness (HPI):\n\nPatient reports experiencing severe, throbbing, unilateral headaches with onset approximately two weeks ago. Quality described as pulsing. Pain localized to the temporal region and retro-orbital area. Severity is intense. Frequency is approximately three to four times per week. Duration of each episode is several hours, sometimes lasting the entire day. Symptoms are exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors. Associated symptoms include nausea, fatigue, and intermittent neck stiffness. Patient reports intermittent visual aura, described as flashing lights or zigzags, preceding headache onset. Denies trying any over-the-counter or prescription medications for the headaches. Reports attempting to alleviate symptoms by resting in a dark, quiet room with variable success. Denies fever, neurological deficits, recent illnesses (cold/flu), recent injuries to head or neck. Reports no recent significant stress or changes in daily routine. Denies recent travel outside of local area. Reports sleeping okay. Patient notes fatigue but attributes it to headaches; confirms history of depression, currently managed with medication. Patient confirms adherence to prescribed Fluoxetine.\n\n### Relevant Medical History (from EHR):\n\n*   Depressive disorder (diagnosed 2024-01-15).\n\n### Medications (from EHR and interview):\n\n*   Fluoxetine (Prozac) 20mg orally, once daily."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Headache Characteristics:</b> Reports severe, throbbing (pulsating), unilateral headaches.</li>\n    <li><b>Location:</b> Pain localized to the temporal region and retro-orbital area.</li>\n    <li><b>Severity:</b> Intense pain.</li>\n    <li><b>Frequency:</b> Approximately 3-4 times per week.</li>\n    <li><b>Duration:</b> Several hours, sometimes lasting the entire day (consistent with 4-72 hour migraine duration).</li>\n    <li><b>Aggravating Factors:</b> Symptoms exacerbated by physical activity, bright lights (photophobia), loud noises (phonophobia), and strong odors.</li>\n    <li><b>Associated Symptoms:</b> Nausea, fatigue, intermittent neck stiffness.</li>\n    <li><b>Aura:</b> Reports intermittent visual aura (flashing lights or zigzags) preceding headache onset.</li>\n    <li><b>Behavioral Response:</b> Attempts to alleviate symptoms by resting in a dark, quiet room.</li>\n    <li><b>Pertinent Negatives:</b> Denies fever, neurological deficits, recent illnesses, recent head/neck injuries.</li>\n    <li><b>Medication History:</b> Denies trying OTC or prescription medications for these headaches. Confirms adherence to Fluoxetine.</li>\n    <li><b>Relevant History:</b> History of depression (a common comorbidity with migraine).</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Family History:</b> No information on family history of headaches or migraine.</li>\n    <li><b>Previous Headache History:</b> No information on whether the patient has experienced similar headaches in the past, even if not diagnosed as migraine.</li>\n    <li><b>Detailed Aura Description:</b> While aura is mentioned, details like duration of aura, progression (e.g., scintillating scotoma), and whether it includes sensory or motor symptoms are missing.</li>\n    <li><b>Triggers:</b> While stress was denied, exploration of other potential triggers (e.g., specific foods, alcohol, caffeine, sleep changes, hormonal changes/menstrual cycle if applicable) is missing.</li>\n    <li><b>Associated Symptoms (Further Detail):</b> Specific questions about vomiting, prodromal symptoms (e.g., mood changes, yawning, food cravings), or postdromal symptoms (e.g., feeling drained) were not asked.</li>\n    <li><b>Impact on Function:</b> Information on how these headaches affect the patient's daily activities (work, social life, etc.) is missing.</li>\n    <li><b>Menstrual History (if applicable):</b> For female patients, the relationship between headache onset/severity and the menstrual cycle is crucial information.</li>\n    <li><b>Social History Details:</b> Specifics on caffeine intake, alcohol consumption, and smoking status are missing, as these can be relevant triggers or confounders.</li>\n    <li><b>Review of Systems (More Comprehensive):</b> While some negatives were included, a more thorough ROS focusing on potential secondary headache causes (e.g., sinus symptoms, dental pain, vision changes beyond aura) would be beneficial.</li>\n</ul>"
+}

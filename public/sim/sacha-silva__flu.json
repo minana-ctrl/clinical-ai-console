@@ -1,0 +1,230 @@
+{
+  "patient": "Sacha Silva",
+  "condition": "Flu",
+  "thinking": "I thought my goal was to gather comprehensive information for the PCP, focusing on Sacha's asthma history and recent exacerbation. My reasoning involved using the EHR to guide clinical inquiry, differentiating symptoms, probing clues, and ensuring exhaustive fact-finding. I planned to start by identifying the main concern, then systematically inquire about asthma symptoms, their characteristics, and Albuterol use. I also intended to rule out infection and explore environmental factors. My strategy included adhering to strict question limits and phrasing, ensuring a structured, efficient interview to gather all necessary details before concluding.",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've just been feeling really unwell, like I'm coming down with something.",
+      "audio": "/sim/audio/1ca5c4f7777c70186c04413b977b030f5fdd4eb7.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell.\n\n### History of Present Illness (HPI):\n\nPatient presents with a subjective feeling of malaise, suggestive of an impending illness. Further details regarding specific symptoms (e.g., fever, cough, sore throat, body aches, fatigue) are needed.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the symptoms you are experiencing?",
+      "audio": "/sim/audio/5cfcb58255e7d9a0c830d766647f7811af34511a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Well, I have a fever, and I'm feeling hot and cold at the same time. I also have a cough and my throat is really sore. My nose is either running or completely blocked up. And my muscles ache all over, plus I have a headache. I'm just so tired, too. Oh, and I've been throwing up a bit, and I have diarrhea.",
+      "audio": "/sim/audio/e748db164d84395394ea84087c790ca5857ea797.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of fever, chills, cough, sore throat, nasal congestion/rhinorrhea, myalgias, headache, and fatigue. Also reports nausea with emesis and diarrhea. Denies shortness of breath or wheezing.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did these symptoms begin?",
+      "audio": "/sim/audio/efc0914d107742abb7e9dc461cc77cb9aca391a7.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I'd say they started about three days ago.",
+      "audio": "/sim/audio/9f7e6dfc99a6754498ae2c1a6b79f111dab5c319.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports fever, chills, cough, sore throat, nasal congestion/rhinorrhea, myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you measured your temperature? If so, what was it?",
+      "audio": "/sim/audio/bda0fd67556944243b201f0d387431a2a7f1513b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't measured it. I just know I feel really hot and then really cold.",
+      "audio": "/sim/audio/3da7eaf42fef3b7f84ba161acddd3207610321ab.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, cough, sore throat, nasal congestion/rhinorrhea, myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How often have you been coughing?",
+      "audio": "/sim/audio/317bb4e9874729d5024da4c9d2776355a24c797c.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's pretty constant, I'd say. It feels like I'm coughing every few minutes.",
+      "audio": "/sim/audio/00e7263be886600d705796149901b1f0bef73d6b.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent cough (every few minutes), sore throat, nasal congestion/rhinorrhea, myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Is the cough producing any phlegm? If so, what color is it?",
+      "audio": "/sim/audio/804e87f738701ff017b92d264cf957e27b092794.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, it's a dry cough. I'm not coughing anything up.",
+      "audio": "/sim/audio/1653f427fc26838541f45a644a8e8a7ecb0024cc.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat, nasal congestion/rhinorrhea, myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How severe is your sore throat? Can you rate it on a scale of 1 to 10, with 10 being the worst?",
+      "audio": "/sim/audio/f8bb37eedb1cdd9681ce8083778cb1e7cec07b66.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I'd say it's about a 7. It's really uncomfortable, especially when I swallow.",
+      "audio": "/sim/audio/d2c9d80302bb67a8556cb57384e1f4cd1c1e7251.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any shortness of breath or wheezing?",
+      "audio": "/sim/audio/ab6cc31f8f364cf2e925bb6478969ea669ef1c17.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "You mentioned muscle aches. Are they worse in any particular part of your body?",
+      "audio": "/sim/audio/7ad11ac214ddb86dae4cb50ccab28432d762bb99.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, they're just all over. My whole body aches.",
+      "audio": "/sim/audio/6e146c8fca2471ac11c7a8b769eb82de1b7b6162.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis, and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How many times have you vomited in the last 24 hours?",
+      "audio": "/sim/audio/362650264fda01f5a9805cb19a4504a41cbe1ad9.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've only vomited once in the last 24 hours.",
+      "audio": "/sim/audio/5616fec4c42ca1e4d8e370316767f4e306bd8d46.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea. Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How many times have you had diarrhea in the last 24 hours?",
+      "audio": "/sim/audio/ef119aec7d13f62eb746a69af99be454cdae66d9.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've had diarrhea twice in the last 24 hours.",
+      "audio": "/sim/audio/e0864f03e34177ae029f121b550c1c29f54396d9.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath or wheezing. Patient has not measured temperature.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent contact with anyone who has been sick?",
+      "audio": "/sim/audio/98fb2e2ce177d4a9aa76119071cb4f563b5d907a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, not that I know of.",
+      "audio": "/sim/audio/daf7981163e546149fc59c91bfc4c9612408cc70.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath or wheezing. Patient has not measured temperature. No known recent sick contacts.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled anywhere recently, outside of your local area?",
+      "audio": "/sim/audio/63d0f2e24b2113bcb5bf8e564b43bc99d272bec2.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't traveled anywhere recently.",
+      "audio": "/sim/audio/2235ea52bf8a36e7a1434bffd461d6035c960468.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath or wheezing. Patient has not measured temperature. No known recent sick contacts. No recent travel outside of local area.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you taken any medications for these symptoms? If so, what and when?",
+      "audio": "/sim/audio/8d477b6c6a5bdc14244bbd22e99637971258a109.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath or wheezing. Patient has not measured temperature. No known recent sick contacts. No recent travel outside of local area. Patient has not taken any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any chest pain or pressure?",
+      "audio": "/sim/audio/afc28042c3adad1a83041c6f952052901509b4a7.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath, wheezing, and chest pain/pressure. Patient has not measured temperature. No known recent sick contacts. No recent travel outside of local area. Patient has not taken any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any changes in your vision or hearing?",
+      "audio": "/sim/audio/010aa9ef0ca64791cd3e079e307e4df7543ad272.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't noticed any changes in my vision or hearing.",
+      "audio": "/sim/audio/860f6bf87a4275121a0bb7e71e40f92b56c87a95.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath, wheezing, chest pain/pressure, and changes in vision or hearing. Patient has not measured temperature. No known recent sick contacts. No recent travel outside of local area. Patient has not taken any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any difficulty urinating or changes in your urine?",
+      "audio": "/sim/audio/ad1eef5e23a0977970b5749d2da5dee5dd67f81a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath, wheezing, chest pain/pressure, changes in vision or hearing, and urinary symptoms. Patient has not measured temperature. No known recent sick contacts. No recent travel outside of local area. Patient has not taken any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any rashes or skin changes?",
+      "audio": "/sim/audio/ef06f93f4cbe912cbe4fc113f073972e5b97ba16.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nPatient reports feeling generally unwell with multiple systemic symptoms.\n\n### History of Present Illness (HPI):\n\nPatient presents with a constellation of symptoms suggestive of an acute infectious process. Reports onset of symptoms approximately three days ago. Reports subjective fever, chills, frequent dry cough (every few minutes), sore throat rated 7/10, nasal congestion/rhinorrhea, generalized myalgias, headache, fatigue, nausea with emesis (once in the last 24 hours), and diarrhea (twice in the last 24 hours). Denies shortness of breath, wheezing, chest pain/pressure, changes in vision or hearing, urinary symptoms, and rashes/skin changes. Patient has not measured temperature. No known recent sick contacts. No recent travel outside of local area. Patient has not taken any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Onset:</b> Symptoms started approximately three days ago, indicating an acute process.</li>\n    <li><b>Systemic Symptoms:</b> Reports feeling generally unwell, fever (subjective), chills, fatigue, generalized myalgias, and headache. These are classic systemic symptoms often associated with viral infections like the flu.</li>\n    <li><b>Respiratory Symptoms:</b> Frequent dry cough, sore throat (rated 7/10), nasal congestion/rhinorrhea. These are common respiratory symptoms.</li>\n    <li><b>Gastrointestinal Symptoms:</b> Nausea with emesis (once in the last 24 hours) and diarrhea (twice in the last 24 hours). While not universal, GI symptoms can occur with influenza, especially in certain populations.</li>\n    <li><b>Pertinent Negatives:</b> Denies shortness of breath, wheezing, chest pain/pressure. This helps rule out more severe respiratory conditions like pneumonia or a severe asthma exacerbation as the primary issue, although the patient has a history of asthma.</li>\n    <li><b>Pertinent Negatives:</b> Denies urinary symptoms and rashes/skin changes, helping to narrow the differential diagnosis.</li>\n    <li><b>Exposure History:</b> No known recent sick contacts or recent travel outside the local area. While lack of known exposure doesn't rule out flu, it's a relevant data point.</li>\n    <li><b>Medication Use:</b> Patient has not taken any medications for current symptoms. This is important for understanding potential interactions or masking of symptoms.</li>\n    <li><b>Relevant Medical History:</b> History of Asthma and recent exacerbation. This is crucial context, as influenza can trigger asthma exacerbations, and respiratory symptoms need careful evaluation in this patient.</li>\n    <li><b>Medications:</b> Use of Albuterol MDI PRN. Relevant for managing potential respiratory distress.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Objective Fever Measurement:</b> Patient reports subjective fever but has not measured temperature. An objective temperature reading (e.g., tympanic, temporal, oral) is crucial for confirming fever, a hallmark symptom of influenza.</li>\n    <li><b>Severity of Cough:</b> While described as frequent and dry, details on cough severity (e.g., does it interfere with sleep? Is it productive at all?) would be helpful.</li>\n    <li><b>Severity of Myalgias/Headache:</b> While generalized myalgias and headache are reported, quantifying their severity (e.g., scale of 1-10) could help gauge the overall illness severity.</li>\n    <li><b>Vaccination Status:</b> Influenza vaccination status (date of last vaccine, type) is highly relevant for assessing risk and potential diagnosis.</li>\n    <li><b>Age:</b> Patient's age is missing. Age is a significant factor in influenza risk and severity.</li>\n    <li><b>Underlying Conditions (beyond Asthma):</b> Any other chronic medical conditions (e.g., diabetes, heart disease, immunosuppression) would be important to know, as they increase the risk of complications from influenza.</li>\n    <li><b>Social History:</b> Information about occupation (e.g., healthcare worker, teacher) or household contacts (e.g., young children, elderly) could provide clues about potential exposure risk.</li>\n    <li><b>Timing of Symptoms:</b> More specific timing details (e.g., when did the fever start relative to the cough? When did GI symptoms begin?) could help differentiate between potential causes.</li>\n    <li><b>Asthma Control:</b> Current level of asthma control (e.g., frequency of SABA use *before* this illness, nighttime awakenings) would provide baseline context for evaluating the current respiratory symptoms.</li>\n    <li><b>Exposure to Influenza-like Illness (ILI) in Community/Workplace:</b> Asking specifically if there has been an outbreak of ILI in the patient's community, workplace, or school would be helpful.</li>\n</ul>"
+}

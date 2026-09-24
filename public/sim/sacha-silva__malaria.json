@@ -1,0 +1,218 @@
+{
+  "patient": "Sacha Silva",
+  "condition": "Malaria",
+  "thinking": "I thought my goal was to gather comprehensive information for the PCP, focusing on Sacha's asthma history and recent exacerbation. My reasoning involved using the EHR to guide clinical inquiry, differentiating symptoms, probing clues, and ensuring exhaustive fact-finding. I planned to start by identifying the main concern, then systematically inquire about asthma symptoms, their characteristics, and Albuterol use. I also intended to rule out infection and explore environmental factors. My strategy included adhering to strict question limits and phrasing, ensuring a structured, efficient interview to gather all necessary details before concluding.",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've been feeling really unwell. I have a high fever, chills, and I'm just so tired and weak. I also have a headache and my muscles ache all over.",
+      "audio": "/sim/audio/a83efd677f95b8e24bd477d6c350ab870cfa90ac.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did these symptoms first begin?",
+      "audio": "/sim/audio/0b4c461c07ee59b116e9424ced3993b144b7e6c0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "They started about a week ago, maybe a little more.",
+      "audio": "/sim/audio/a9f2d9dcd58fde7e392cdfcb33203a2eeeb6d0dd.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the fever? How high has it been?",
+      "audio": "/sim/audio/2691cbad9cd1bf02290fa23194902cc11f5c7214.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's been really high. I haven't taken my temperature, but I can tell it's very high. I'm just burning up.",
+      "audio": "/sim/audio/0d3b71fe8f80e31363926c6c9889480d333fd4fc.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever, denies objective temperature measurement. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any shortness of breath or wheezing?",
+      "audio": "/sim/audio/ab6cc31f8f364cf2e925bb6478969ea669ef1c17.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've been breathing pretty fast, and I have a cough, but I haven't noticed any wheezing.",
+      "audio": "/sim/audio/4d08a5462233365b67053af6dad6ce347ba54052.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Reports tachypnea and cough. Denies wheezing, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the cough? Is it dry or productive?",
+      "audio": "/sim/audio/d21acdbfc2f39debd8186f5e920132786a545e73.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's just a cough. I haven't really noticed if it's dry or if I'm bringing anything up.",
+      "audio": "/sim/audio/1775cd98008f7ac59de6ff3d3ef7af4356287ed5.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any chest pain or discomfort?",
+      "audio": "/sim/audio/d4aa3836b49ebdf6b1c56f22387e935bc3333949.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any chest pain.",
+      "audio": "/sim/audio/01218cf8764067bd936c54cd1eeeaff93041935e.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, and myalgias.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any nausea, vomiting, or diarrhea?",
+      "audio": "/sim/audio/0a52af8d5a393f5758822da654c8678f61da1ad4.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I've had some nausea and I've vomited a few times. I've also had diarrhea and some abdominal pain.",
+      "audio": "/sim/audio/097e484724e0811ee733023bbcb4af4357bc5d0c.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain approximately one week ago. Reports subjective high fever. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did the nausea, vomiting, and diarrhea start?",
+      "audio": "/sim/audio/62eb04def75d94c7ba69a3c1e5cc9736c2bfcd1b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "They started a few days after the fever and muscle aches began.",
+      "audio": "/sim/audio/f3fad4168eef709f56923af5e949b241a9e06829.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled outside of the area recently?",
+      "audio": "/sim/audio/22f86c4d30c78a88415410eef57085a4bf1a7238.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I just got back from a safari trip in Tanzania. I got quite a few mosquito bites while I was there.",
+      "audio": "/sim/audio/c46d19d49afb842431adec90c80dd6a3bde0b4e1.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania with multiple mosquito bites.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did you return from Tanzania?",
+      "audio": "/sim/audio/4148cc7ba27f26f120991fd7fe24d99728f8cdbb.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I returned about ten days ago.",
+      "audio": "/sim/audio/0af01c5724ae6cffd7891323cf26017829805ed2.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you taken any medications for these symptoms?",
+      "audio": "/sim/audio/dfb687bd7150d8331c81b2af48e6ed7be522029b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't taken anything for these symptoms.",
+      "audio": "/sim/audio/2483406fe323c2c80743306bc4bdc869a9db68ae.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Patient denies taking any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent contact with anyone who has been sick?",
+      "audio": "/sim/audio/98fb2e2ce177d4a9aa76119071cb4f563b5d907a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Patient denies taking any medications for current symptoms. Denies recent contact with sick individuals.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any rash or changes in your skin?",
+      "audio": "/sim/audio/e3ae47ff3e71501772e83306605a68c4c414e1fd.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't noticed any rash or changes in my skin.",
+      "audio": "/sim/audio/e5a832c34bcf8522aff1f0ce11cc512e7a5cf578.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, and abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Patient denies taking any medications for current symptoms. Denies recent contact with sick individuals. Denies rash or skin changes.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any confusion or changes in your mental state?",
+      "audio": "/sim/audio/5e87140c416cac4189199db1e8aec6b742f72e11.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have. I've been feeling a bit confused and not quite myself.",
+      "audio": "/sim/audio/2fd43a060d8e5ad0790b0545b8daeba5126c2b83.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, abdominal pain, and confusion.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Reports experiencing confusion and feeling \"not quite myself.\" Patient denies taking any medications for current symptoms. Denies recent contact with sick individuals. Denies rash or skin changes.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the confusion? What does it feel like?",
+      "audio": "/sim/audio/15bfec67aa3a95458cab036707174c517ac54666.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's hard to explain, but I just feel... foggy. Like my thoughts aren't clear, and sometimes I struggle to focus or remember things. It's like my brain isn't working properly.",
+      "audio": "/sim/audio/78963f2f986124ff9e1a757bd91e4ec640dfde01.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, abdominal pain, and confusion.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Reports experiencing confusion, described as feeling \"foggy,\" with difficulty focusing and memory impairment. Patient denies taking any medications for current symptoms. Denies recent contact with sick individuals. Denies rash or skin changes.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any sensitivity to light or sound?",
+      "audio": "/sim/audio/a7347e1d6dc54a3a9b36b8597fcbe030ea36c707.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't noticed any sensitivity to light or sound.",
+      "audio": "/sim/audio/eeaa2ae16b78d07d439b1de20c695decf5a10ab1.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, abdominal pain, and confusion.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Reports experiencing confusion, described as feeling \"foggy,\" with difficulty focusing and memory impairment. Denies sensitivity to light or sound. Patient denies taking any medications for current symptoms. Denies recent contact with sick individuals. Denies rash or skin changes.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any urinary symptoms, like pain or frequency?",
+      "audio": "/sim/audio/513153623113f970fa76a3bb855ccc27cf796292.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any urinary symptoms.",
+      "audio": "/sim/audio/195bac80823419682cdd85fd771b3a6b0bd1f88b.mp3",
+      "report": "### Primary concern:\n\nConstitutional symptoms including fever, chills, fatigue, myalgias, headache, nausea, vomiting, diarrhea, abdominal pain, and confusion.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of fever, chills, fatigue, generalized myalgias, and headache approximately one week ago. Reports subjective high fever. Nausea, vomiting, diarrhea, and abdominal pain began a few days after the initial symptoms. Reports tachypnea and cough, characterized as non-productive. Denies wheezing, shortness of breath, and chest pain. Reports recent travel to Tanzania, returning approximately ten days ago, with multiple mosquito bites. Reports experiencing confusion, described as feeling \"foggy,\" with difficulty focusing and memory impairment. Denies sensitivity to light or sound. Denies urinary symptoms. Patient denies taking any medications for current symptoms. Denies recent contact with sick individuals. Denies rash or skin changes.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Recent asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Constitutional symptoms:</b> Fever, chills, fatigue, myalgias, headache are classic symptoms of malaria.</li>\n    <li><b>Gastrointestinal symptoms:</b> Nausea, vomiting, diarrhea, abdominal pain can occur in malaria.</li>\n    <li><b>Neurological symptoms:</b> Confusion (\"foggy,\" difficulty focusing, memory impairment) is a significant symptom, potentially indicating cerebral malaria, a severe complication.</li>\n    <li><b>Recent travel history:</b> Travel to Tanzania (a malaria-endemic region) within the incubation period (returning 10 days ago, symptoms started ~1 week ago) is a major risk factor.</li>\n    <li><b>Exposure history:</b> Reports multiple mosquito bites during travel, the vector for malaria transmission.</li>\n    <li><b>Timing of symptoms:</b> Onset approximately one week after returning from travel aligns with the typical incubation period for *Plasmodium falciparum* malaria.</li>\n    <li><b>Negative symptoms (pertinent negatives):</b> Denies rash (rules out some other infectious diseases), denies urinary symptoms (less likely UTI), denies wheezing/shortness of breath/chest pain (less likely primary respiratory infection, though cough is present).</li>\n    <li><b>Lack of medication use:</b> Patient denies taking medications for current symptoms, suggesting the illness is untreated.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Specifics of fever pattern:</b> Was the fever intermittent, continuous, or cyclical? Malaria often presents with cyclical fevers (e.g., every 48 or 72 hours), although this pattern isn't always present.</li>\n    <li><b>Severity of symptoms:</b> Quantifying the fever (highest temperature recorded), severity of headache, confusion, and dehydration (e.g., urine output, thirst) would be helpful.</li>\n    <li><b>Other potential malaria symptoms:</b> Absence of jaundice or dark urine wasn't explicitly mentioned, which can occur with malaria due to hemolysis.</li>\n    <li><b>Vaccination history:</b> Any travel-related vaccinations received (e.g., Yellow Fever, Typhoid) or malaria prophylaxis taken before or during the trip.</li>\n    <li><b>Detailed travel itinerary:</b> Specific locations visited within Tanzania, duration of stay, type of accommodation (e.g., screened windows, air conditioning), and activities (e.g., nighttime outdoor activities) to better assess exposure risk.</li>\n    <li><b>Past medical history related to infections:</b> History of previous malaria infections or other tropical diseases.</li>\n    <li><b>Social history:</b> Occupation or activities that might increase exposure risk.</li>\n    <li><b>Physical Exam Findings (though this is a pre-visit report):</b> While not part of the interview, noting any findings from a brief initial assessment (e.g., temperature, heart rate, respiratory rate, general appearance, presence of splenomegaly or hepatomegaly) would be crucial.</li>\n    <li><b>Laboratory results (if any preliminary tests were done):</b> Any initial blood counts (e.g., anemia, thrombocytopenia) or basic metabolic panel results.</li>\n</ul>"
+}

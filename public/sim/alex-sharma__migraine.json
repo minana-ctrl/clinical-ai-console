@@ -1,0 +1,218 @@
+{
+  "patient": "Alex Sharma",
+  "condition": "Migraine",
+  "thinking": "My thought process begins by preparing to act as a clinical assistant, aiming to gather information for the PCP while adhering to strict rules: no medical advice, one question at a time (under 20 words), and a maximum of 20 questions. I'll use the EHR to guide my clinical reasoning, focusing on differentiation, probing clues, and exhaustive fact-finding, especially considering Alex's diabetes. My plan is to start with the required phrase, ask about the main concern, then systematically probe symptoms (onset, duration, severity, etc.), relevant history, and diabetes management, ensuring I stay within the question limit before concluding.",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Well, I've been feeling really unwell. I have a terrible headache, and it's just awful.",
+      "audio": "/sim/audio/7be7136788a21d0df927cb0a2ee0568471684326.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache. Onset and duration not specified. Quality not specified. Severity not specified. Timing not specified. No modifying factors reported. Pertinent negatives: Denies fever, neck stiffness, visual changes, nausea, vomiting, photophobia, phonophobia.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the headache? Where is the pain located?",
+      "audio": "/sim/audio/d625d841cedffeca3a1c091a61def5798269326b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a really bad headache, usually on one side of my head. It feels like it's throbbing or pulsing.",
+      "audio": "/sim/audio/4641144ad6a406a07ba564dcbad9fa57ea47eea8.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache. Onset and duration not specified. Quality described as throbbing or pulsing, typically unilateral. Severity not specified. Timing not specified. No modifying factors reported. Pertinent negatives: Denies fever, neck stiffness, visual changes, nausea, vomiting, photophobia, phonophobia.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did this headache first start?",
+      "audio": "/sim/audio/250d0708238df1e5a6806356beda437fb936387a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's been going on for about three or four days now.",
+      "audio": "/sim/audio/1dbdbec9ba5a4ce7ad1d94e73bed886a46535a0b.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Severity not specified. Timing not specified. No modifying factors reported. Pertinent negatives: Denies fever, neck stiffness, visual changes, nausea, vomiting, photophobia, phonophobia.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Has the headache been constant, or does it come and go?",
+      "audio": "/sim/audio/886262877e5333cb82a727d337994b9f8e174d4d.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, it comes and goes. I get some breaks, but then it flares up again.",
+      "audio": "/sim/audio/d6ee19fac54b7dd7ce47ab3a24f33672a974c9a0.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Severity not specified. Pertinent negatives: Denies fever, neck stiffness, visual changes, nausea, vomiting, photophobia, phonophobia.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are there any activities that make the headache worse?",
+      "audio": "/sim/audio/71735fa54d9f4c40e14e624806fd376b3578dab1.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, it definitely gets worse when I move around.",
+      "audio": "/sim/audio/452f81cf96d226c61bc3612b73b12d9c57d946f1.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Severity not specified. Pertinent negatives: Denies fever, neck stiffness, visual changes, nausea, vomiting, photophobia, phonophobia.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Does light or sound bother you when you have the headache?",
+      "audio": "/sim/audio/81964ed8b3f1333b0a2b674f488f5c2dbb3ffea3.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, bright lights really bother my eyes, and loud noises really bother my ears when I have the headache.",
+      "audio": "/sim/audio/9ef4607e83c3709be551f66076c5958e5bf3ea70.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Severity not specified. Pertinent negatives: Denies fever, neck stiffness, visual changes, nausea, vomiting.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any nausea or vomiting with the headache?",
+      "audio": "/sim/audio/c640de2ae152997a7017e542185292665bc7839a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I feel sick to my stomach, and I might even throw up.",
+      "audio": "/sim/audio/1b7f1f58c3f24e9ec4d7c95e65bcea36d4b47a0f.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Severity not specified. Pertinent negatives: Denies fever, neck stiffness, visual changes.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any changes in your vision, like blurry vision or seeing spots?",
+      "audio": "/sim/audio/cb87e098decf5c2328f50e81c864e419194a08f5.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, sometimes I see flashing lights or zigzags before the headache starts.",
+      "audio": "/sim/audio/d33d371c5fa5d48c250bb3ce9e15fe3faee69104.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Severity not specified. Pertinent negatives: Denies fever, neck stiffness.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you ever had headaches like this before?",
+      "audio": "/sim/audio/4b7d3e0f128286df0ecf8cdede909f29ba54826b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Not exactly like this. I've had headaches before, but nothing this bad or with all these other things happening.",
+      "audio": "/sim/audio/4e6109a23dffb703af6aea2a00bd997a3175a114.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, neck stiffness.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you taken any medication for the headache? If so, what and did it help?",
+      "audio": "/sim/audio/d21d87070d9684f529e970ecd20feef8e14f5702.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've tried some over-the-counter pain relievers, like ibuprofen, but they haven't really helped much with this kind of pain.",
+      "audio": "/sim/audio/eb25ced0b7cbdba1e50a8fa83548df8e8ff7d779.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, neck stiffness. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any fever or chills recently?",
+      "audio": "/sim/audio/f28e1062bf0a888d24235637490fe02dbe244788.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any fever or chills.",
+      "audio": "/sim/audio/c9665a62feb9a553bcaba672e81fdf6809b0a919.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any dizziness or loss of balance?",
+      "audio": "/sim/audio/68e2275dc290cdf950b3c11fee40f89ef1cceaee.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't experienced any dizziness or loss of balance.",
+      "audio": "/sim/audio/7144e7c050524815651956dab8479acbd8f2bd93.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness, dizziness, loss of balance. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent changes in your diet or sleep patterns?",
+      "audio": "/sim/audio/41a181e9099883562f9f04d057d1c9d2e0f472a0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any recent changes in my diet or sleep patterns.",
+      "audio": "/sim/audio/84f071e46b58580242402591377e43d2d468446e.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness, dizziness, loss of balance. Patient reports over-the-counter ibuprofen provides minimal relief. Denies recent changes in diet or sleep patterns.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any weakness or numbness in any part of your body?",
+      "audio": "/sim/audio/166a5689baeb9d7c6a5873a69270cccaa3487836.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I've had some numbness or tingling on one side of my body or face.",
+      "audio": "/sim/audio/19f6cc2813aaf5b9d351c7b5059a2437cf1033a2.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Reports associated numbness or tingling on one side of the body or face. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness, dizziness, loss of balance, recent changes in diet or sleep patterns. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe when the numbness or tingling occurs? Does it happen with the headache?",
+      "audio": "/sim/audio/8dad167ba38c66b0dd16bc0d6063c020ddb97da1.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It usually happens around the same time as the flashing lights, sometimes before the headache really kicks in, or sometimes it's there while the headache is going on.",
+      "audio": "/sim/audio/1ffadad4807a97c8e16edbf60a2e625c6dec5bf0.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Reports associated numbness or tingling on one side of the body or face, occurring around the same time as the visual aura, sometimes preceding the headache or occurring concurrently. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness, dizziness, loss of balance, recent changes in diet or sleep patterns. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any recent injuries, especially to your head or neck?",
+      "audio": "/sim/audio/43984b7ac1216184f633367ea53b5df8d7c8079b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any recent injuries to my head or neck.",
+      "audio": "/sim/audio/f59a52030e2261d1078889c1e5193d21f6e58de6.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Reports associated numbness or tingling on one side of the body or face, occurring around the same time as the visual aura, sometimes preceding the headache or occurring concurrently. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness, dizziness, loss of balance, recent changes in diet or sleep patterns, recent head or neck injury. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled anywhere recently?",
+      "audio": "/sim/audio/51669c82fa0093cc72a3a5e9dd33a166a5b678a0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't traveled anywhere recently.",
+      "audio": "/sim/audio/2a94ead8941687fd800cede3ddd215213dde9327.mp3",
+      "report": "### Primary concern:\n\nHeadache\n\n### History of Present Illness (HPI):\n\nPatient reports a severe headache with onset approximately 3-4 days ago. Quality described as throbbing or pulsing, typically unilateral. Headache is intermittent, with periods of relief followed by recurrence. Pain is exacerbated by movement. Reports photophobia and phonophobia associated with headache. Reports associated nausea and possible emesis. Reports visual aura preceding headache, described as flashing lights or zigzags. Reports associated numbness or tingling on one side of the body or face, occurring around the same time as the visual aura, sometimes preceding the headache or occurring concurrently. Patient denies similar headaches in the past. Severity not specified. Pertinent negatives: Denies fever, chills, neck stiffness, dizziness, loss of balance, recent changes in diet or sleep patterns, recent head or neck injury, recent travel. Patient reports over-the-counter ibuprofen provides minimal relief.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)\n*   Ibuprofen (OTC) - minimal relief"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Primary Concern:</b> Headache - Clearly identifies the main reason for the visit.</li>\n    <li><b>Onset:</b> Approximately 3-4 days ago - Provides a timeframe for the current episode.</li>\n    <li><b>Quality:</b> Throbbing or pulsing - Characteristic quality often associated with migraine.</li>\n    <li><b>Location:</b> Typically unilateral - A key feature distinguishing migraine from tension headaches.</li>\n    <li><b>Timing/Pattern:</b> Intermittent, with periods of relief followed by recurrence - Suggests episodic nature.</li>\n    <li><b>Exacerbating Factors:</b> Pain exacerbated by movement (photophobia, phonophobia) - Common migraine triggers/symptoms.</li>\n    <li><b>Associated Symptoms:</b> Photophobia (sensitivity to light) and phonophobia (sensitivity to sound) - Classic migraine symptoms.</li>\n    <li><b>Associated Symptoms:</b> Nausea and possible emesis (vomiting) - Common migraine symptoms.</li>\n    <li><b>Aura:</b> Reports visual aura (flashing lights or zigzags) - Strong indicator of migraine with aura.</li>\n    <li><b>Aura:</b> Reports associated numbness or tingling on one side of the body or face (sensory aura) - Another strong indicator of migraine with aura.</li>\n    <li><b>Aura Timing:</b> Aura occurs around the same time as the headache, sometimes preceding or concurrent - Typical timing for migraine aura.</li>\n    <li><b>Pertinent Negatives:</b> Denies fever, chills, neck stiffness - Helps rule out infectious or meningeal causes.</li>\n    <li><b>Pertinent Negatives:</b> Denies dizziness, loss of balance - Helps rule out vestibular or cerebellar causes.</li>\n    <li><b>Pertinent Negatives:</b> Denies recent head or neck injury - Rules out traumatic causes.</li>\n    <li><b>Pertinent Negatives:</b> Denies recent changes in diet or sleep patterns - Rules out some common triggers, though doesn't exclude them entirely.</li>\n    <li><b>Pertinent Negatives:</b> Denies recent travel - Rules out travel-related infections or exposures.</li>\n    <li><b>Treatment Response:</b> OTC ibuprofen provides minimal relief - Suggests the headache is severe or not responsive to simple analgesics, common in migraine.</li>\n    <li><b>Relevant Medical History:</b> Diabetes Mellitus, Type 2 - Important context for overall health and potential medication interactions.</li>\n    <li><b>Medications:</b> Metformin - Relevant for potential interactions or contraindications.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Severity:</b> Pain severity not specified (e.g., scale of 1-10) - Crucial for assessing impact and guiding treatment.</li>\n    <li><b>Duration:</b> Duration of individual headache episodes not specified - Important for diagnosis and management.</li>\n    <li><b>Frequency:</b> Frequency of headaches (how often they occur) not specified - Key for classifying migraine type (episodic vs. chronic).</li>\n    <li><b>Triggers:</b> Specific triggers identified (e.g., stress, certain foods, weather changes, hormonal changes) - Helpful for patient education and prevention.</li>\n    <li><b>Family History:</b> Family history of headaches, particularly migraine - Migraine often has a genetic component.</li>\n    <li><b>Past Headache History:</b> Patient denies *similar* headaches, but clarification on *any* past headaches (even different types) would be useful.</li>\n    <li><b>Neurological Exam Findings:</b> Although not part of the pre-visit report, the *absence* of mention of a neurological exam is a critical missing piece for the PCP's assessment.</li>\n    <li><b>Impact on Function:</b> How the headache impacts daily activities (work, school, social life) - Helps determine severity and need for treatment.</li>\n    <li><b>Associated Symptoms (Detailed):</b> Further detail on nausea/vomiting (frequency, severity).</li>\n    <li><b>Aura Details:</b> Duration of aura symptoms, specific characteristics (e.g., scintillating scotoma, fortification spectra).</li>\n    <li><b>Other Associated Symptoms:</b> Any associated symptoms like osmophobia (aversion to smells), allodynia (pain from non-painful stimuli), or neck pain.</li>\n    <li><b>Review of Systems:</b> A broader review of systems might reveal other contributing factors or rule out other conditions.</li>\n</ul>"
+}

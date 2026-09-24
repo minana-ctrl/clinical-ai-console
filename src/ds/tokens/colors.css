@@ -1,0 +1,26 @@
+:root{
+/* Base brand — sampled from the ICAIH 2026 logo artwork */
+--icaih-emerald:#1e8c4a;--icaih-emerald-700:#166b39;--icaih-emerald-800:#0f4d29;--icaih-emerald-300:#7cc79b;--icaih-emerald-100:#dcf1e5;--icaih-emerald-50:#f1faf5;
+--icaih-leaf:#147c16;--icaih-leaf-700:#0e5c10;--icaih-leaf-100:#dff0df;
+--icaih-lime:#bad325;--icaih-lime-bright:#d6df24;--icaih-lime-600:#8fc029;--icaih-lime-100:#f3f8d4;
+--icaih-navy:#082b67;--icaih-navy-700:#061f4b;--icaih-navy-300:#6b83ad;--icaih-navy-100:#dde4f0;--icaih-navy-50:#f2f5fa;
+--icaih-ink:#0b1230;
+/* Neutrals — cool, navy-tinted greys */
+--neutral-0:#ffffff;--neutral-25:#fbfcfd;--neutral-50:#f5f7fa;--neutral-100:#eceff5;--neutral-200:#dde2ec;--neutral-300:#c3cad8;--neutral-400:#98a2b6;--neutral-500:#6d7791;--neutral-600:#4d5670;--neutral-700:#343c53;--neutral-800:#1e253a;--neutral-900:#0b1230;
+/* Semantic status */
+--status-success:#1e8c4a;--status-success-bg:#dcf1e5;
+--status-warning:#c08b06;--status-warning-bg:#fdf3d6;
+--status-danger:#b3261e;--status-danger-bg:#fbe3e1;
+--status-info:#082b67;--status-info-bg:#dde4f0;
+/* Semantic aliases */
+--brand-primary:var(--icaih-emerald);--brand-primary-hover:var(--icaih-emerald-700);--brand-primary-active:var(--icaih-emerald-800);
+--brand-secondary:var(--icaih-navy);--brand-accent:var(--icaih-lime);
+--text-heading:var(--icaih-navy);--text-body:var(--neutral-700);--text-muted:var(--neutral-500);--text-on-brand:var(--neutral-0);--text-on-accent:var(--icaih-ink);--text-link:var(--icaih-emerald);--text-link-hover:var(--icaih-emerald-700);
+--surface-page:var(--neutral-0);--surface-subtle:var(--neutral-50);--surface-card:var(--neutral-0);--surface-inverse:var(--icaih-navy);--surface-brand:var(--icaih-emerald);--surface-accent:var(--icaih-lime);
+--border-subtle:var(--neutral-200);--border-strong:var(--neutral-300);--border-brand:var(--icaih-emerald);--border-focus:var(--icaih-emerald);
+/* Signature gradients (the logo's Ghana map: leaf green falling to lime) */
+--gradient-map:linear-gradient(160deg,var(--icaih-leaf) 0%,var(--icaih-lime-600) 55%,var(--icaih-lime-bright) 100%);
+--gradient-brand:linear-gradient(90deg,var(--icaih-emerald) 0%,var(--icaih-lime-600) 100%);
+--gradient-deep:linear-gradient(150deg,var(--icaih-navy) 0%,var(--icaih-emerald-800) 100%);
+--gradient-protect:linear-gradient(180deg,rgba(11,18,48,0) 0%,rgba(11,18,48,.78) 100%); /* @kind color */
+}

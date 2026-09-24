@@ -1,0 +1,72 @@
+[
+  {
+    "patient": "Jordon Dubois",
+    "condition": "Flu",
+    "file": "jordon-dubois__flu.json",
+    "turnCount": 35,
+    "hasAudio": true
+  },
+  {
+    "patient": "Jordon Dubois",
+    "condition": "Malaria",
+    "file": "jordon-dubois__malaria.json",
+    "turnCount": 33,
+    "hasAudio": true
+  },
+  {
+    "patient": "Jordon Dubois",
+    "condition": "Migraine",
+    "file": "jordon-dubois__migraine.json",
+    "turnCount": 37,
+    "hasAudio": true
+  },
+  {
+    "patient": "Jordon Dubois",
+    "condition": "Serotonin Syndrome",
+    "file": "jordon-dubois__serotonin-syndrome.json",
+    "turnCount": 33,
+    "hasAudio": true
+  },
+  {
+    "patient": "Alex Sharma",
+    "condition": "Flu",
+    "file": "alex-sharma__flu.json",
+    "turnCount": 33,
+    "hasAudio": true
+  },
+  {
+    "patient": "Alex Sharma",
+    "condition": "Malaria",
+    "file": "alex-sharma__malaria.json",
+    "turnCount": 33,
+    "hasAudio": true
+  },
+  {
+    "patient": "Alex Sharma",
+    "condition": "Migraine",
+    "file": "alex-sharma__migraine.json",
+    "turnCount": 35,
+    "hasAudio": true
+  },
+  {
+    "patient": "Sacha Silva",
+    "condition": "Flu",
+    "file": "sacha-silva__flu.json",
+    "turnCount": 37,
+    "hasAudio": true
+  },
+  {
+    "patient": "Sacha Silva",
+    "condition": "Malaria",
+    "file": "sacha-silva__malaria.json",
+    "turnCount": 35,
+    "hasAudio": true
+  },
+  {
+    "patient": "Sacha Silva",
+    "condition": "Migraine",
+    "file": "sacha-silva__migraine.json",
+    "turnCount": 33,
+    "hasAudio": true
+  }
+]

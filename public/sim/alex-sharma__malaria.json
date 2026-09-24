@@ -1,0 +1,206 @@
+{
+  "patient": "Alex Sharma",
+  "condition": "Malaria",
+  "thinking": "My thought process begins by preparing to act as a clinical assistant, aiming to gather information for the PCP while adhering to strict rules: no medical advice, one question at a time (under 20 words), and a maximum of 20 questions. I'll use the EHR to guide my clinical reasoning, focusing on differentiation, probing clues, and exhaustive fact-finding, especially considering Alex's diabetes. My plan is to start with the required phrase, ask about the main concern, then systematically probe symptoms (onset, duration, severity, etc.), relevant history, and diabetes management, ensuring I stay within the question limit before concluding.",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Well, I've been feeling quite unwell. I have a high fever, and I'm very tired and weak. I also have chills and shivering.",
+      "audio": "/sim/audio/496adf6dbcee4c743203d14ed9ccc1b043932d74.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of fever, fatigue, weakness, chills, and shivering. Duration not specified. Severity not specified. No associated cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms reported.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did these symptoms first begin?",
+      "audio": "/sim/audio/0b4c461c07ee59b116e9424ced3993b144b7e6c0.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "They started a few days ago, maybe three or four days now.",
+      "audio": "/sim/audio/ccf1b50e80dbfe9897a6e30e2eb3851063389bbf.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Severity not specified. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the fever? Is it constant or does it come and go?",
+      "audio": "/sim/audio/7458e386765b89bf9503698a68ef6e9e54b31df6.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It seems to come and go. It's not constant, and when it's high, I get those chills and shivering really badly.",
+      "audio": "/sim/audio/75adb2b0b8f60970f6e53f095f846d2817837e67.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Severity not specified. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you measured your temperature? If so, what was the highest reading?",
+      "audio": "/sim/audio/64bc451c1c4494a5f7326966288d78a8e2c20182.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have. It was around 103 degrees Fahrenheit at its highest.",
+      "audio": "/sim/audio/f5c8132dda66c00da67940db5d4ce51e9981bfa4.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Severity not specified. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR): \n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are you experiencing any pain anywhere in your body?",
+      "audio": "/sim/audio/48b8f94bebc1472b6d8f6147b06fcdab4e1594d4.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I do. I have a headache, and my muscles are aching all over. I also have some abdominal pain.",
+      "audio": "/sim/audio/9b8b03579d44055b614ab5f7d5499b839526c900.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, and abdominal pain. Severity not specified. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the abdominal pain? Where is it located?",
+      "audio": "/sim/audio/2740a74d87f44b85bd2e0511b3049a0a7a389855.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a general ache, sort of all over my stomach area. It's not really in one specific spot.",
+      "audio": "/sim/audio/ab77a7bd02c74c11e73b5fadb1a468aa59d69420.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, and diffuse abdominal pain. Severity not specified. Denies cough, shortness of breath, chest pain, nausea, vomiting, diarrhea, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any nausea, vomiting, or diarrhea?",
+      "audio": "/sim/audio/0a52af8d5a393f5758822da654c8678f61da1ad4.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have. I've had some nausea and I've been vomiting a bit. And yes, I've had diarrhea too.",
+      "audio": "/sim/audio/97ebf0faa195cac5e68ee14d07598e77c4373db5.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting, and diarrhea. Severity not specified. Denies cough, shortness of breath, chest pain, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How many times have you vomited or had diarrhea in the last 24 hours?",
+      "audio": "/sim/audio/43232cf939f50660a5ee64047da7fec3eb877d68.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've vomited about two or three times, and I've had diarrhea maybe three or four times in the last 24 hours.",
+      "audio": "/sim/audio/6a26198e1f167a784fc631ad2e8f2484c1cc48ec.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), and diarrhea (3-4 times in last 24 hours). Denies cough, shortness of breath, chest pain, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any changes in your urine, like color or frequency?",
+      "audio": "/sim/audio/4bd19804801d20167365bea1c86654a98be8c7ba.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't noticed any changes in my urine.",
+      "audio": "/sim/audio/b8cc92210862d00245173edcc2296e317826bf0a.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), and diarrhea (3-4 times in last 24 hours). Denies cough, shortness of breath, chest pain, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are you experiencing any shortness of breath or difficulty breathing?",
+      "audio": "/sim/audio/4ac3fb9df5ee6c9997225939f72edbb12609ff56.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, my breathing feels quite rapid.",
+      "audio": "/sim/audio/511d4d26e6fa1caaf48eb8f4d4228c994c0cd102.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), and rapid breathing. Denies cough, chest pain, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the rapid breathing? Does it feel like you can't get enough air?",
+      "audio": "/sim/audio/ae43121140280d4c28163ab31cbc16b9a853badc.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, it does feel like I can't get enough air sometimes. It's like I'm breathing fast but not getting enough oxygen.",
+      "audio": "/sim/audio/8ef932a2edfa098cc71004a46b660189954f8b67.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), and rapid breathing described as dyspnea. Denies cough, chest pain, or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had any cough? If so, is it dry or productive?",
+      "audio": "/sim/audio/eadb19a936f1797b06108b9c81d10535f72bd74b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have a cough.",
+      "audio": "/sim/audio/8399c6b5b66ac36cc667db82971cdf9c38de8ba9.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing, cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), rapid breathing described as dyspnea, and cough. Denies chest pain or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Is the cough dry, or are you coughing anything up?",
+      "audio": "/sim/audio/8172e7fd8363b6111538ddbd055813856068e132.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a dry cough. I'm not coughing anything up.",
+      "audio": "/sim/audio/c5e41d560e6570a61006d11f905e46fe55eb2352.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing, cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), rapid breathing described as dyspnea, and dry cough. Denies chest pain or urinary symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled outside of your local area recently?",
+      "audio": "/sim/audio/82114fd81b8b3068d4bb6ddebd2d9213769fe5e2.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have. I recently returned from a safari trip in Tanzania, and I got quite a few mosquito bites there.",
+      "audio": "/sim/audio/6c66b9becce1639504afb520a1d97847c9c8d456.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing, cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), rapid breathing described as dyspnea, and dry cough. Denies chest pain or urinary symptoms. Reports recent travel to Tanzania with multiple mosquito bites.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did you return from Tanzania?",
+      "audio": "/sim/audio/4148cc7ba27f26f120991fd7fe24d99728f8cdbb.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I returned about a week and a half ago.",
+      "audio": "/sim/audio/456e4b6842cfde171047ba4c58999a6604676a4f.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing, cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), rapid breathing described as dyspnea, and dry cough. Denies chest pain or urinary symptoms. Reports recent travel to Tanzania, returning approximately 1.5 weeks ago, with multiple mosquito bites.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you taken any medications for these symptoms?",
+      "audio": "/sim/audio/dfb687bd7150d8331c81b2af48e6ed7be522029b.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't taken anything for these symptoms.",
+      "audio": "/sim/audio/802cb7bc9d98c7550c327617252d55ccc090d4ff.mp3",
+      "report": "### Primary concern:\n\nFever, fatigue, weakness, chills, shivering, headache, myalgia, abdominal pain, nausea, vomiting, diarrhea, rapid breathing, cough.\n\n### History of Present Illness (HPI):\n\nPatient reports acute onset of intermittent fever, fatigue, weakness, chills, and shivering, beginning approximately 3-4 days ago. Reports maximum temperature of 103°F. Also reports associated headache, generalized myalgia, diffuse abdominal pain, nausea, vomiting (2-3 times in last 24 hours), diarrhea (3-4 times in last 24 hours), rapid breathing described as dyspnea, and dry cough. Denies chest pain or urinary symptoms. Reports recent travel to Tanzania, returning approximately 1.5 weeks ago, with multiple mosquito bites. Patient denies taking any medications for current symptoms.\n\n### Relevant Medical History (from EHR):\n\n*   Diabetes Mellitus, Type 2 (Diagnosed: 2020-05-20, Status: Active, Confirmed, Moderate)\n\n### Medications (from EHR and interview):\n\n*   Metformin 500mg Tablet: 1 tablet by mouth twice daily (Active order, prescribed 2024-03-10)"
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Acute onset of intermittent fever:</b> A hallmark symptom of malaria, especially the cyclical nature.</li>\n    <li><b>High fever (103°F):</b> Consistent with malaria.</li>\n    <li><b>Chills and shivering:</b> Classic symptoms accompanying malaria fever spikes.</li>\n    <li><b>Fatigue and weakness:</b> Common systemic symptoms in malaria.</li>\n    <li><b>Headache:</b> Frequently reported symptom in malaria.</li>\n    <li><b>Myalgia (muscle aches):</b> Common systemic symptom in malaria.</li>\n    <li><b>Nausea, vomiting, diarrhea, abdominal pain:</b> Gastrointestinal symptoms can occur with malaria.</li>\n    <li><b>Rapid breathing (dyspnea):</b> Can indicate severity or complications like anemia or respiratory distress.</li>\n    <li><b>Recent travel to Tanzania:</b> Tanzania is a malaria-endemic region, making malaria a high-priority differential diagnosis.</li>\n    <li><b>Return date (1.5 weeks ago):</b> The incubation period for *Plasmodium falciparum* (the most common and dangerous species) is typically 7-30 days, fitting within this timeframe.</li>\n    <li><b>Multiple mosquito bites:</b> Confirms exposure risk in an endemic area.</li>\n    <li><b>Denial of current medications for symptoms:</b> Important to know the patient hasn't self-treated with antipyretics or other drugs that might mask symptoms or interfere with diagnosis/treatment.</li>\n    <li><b>Denial of chest pain or urinary symptoms:</b> Helps rule out other potential causes like pneumonia or UTI, although malaria can sometimes present with atypical symptoms.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Specific dates of travel within Tanzania:</b> Knowing the exact locations visited could help assess the risk level for specific malaria species or drug resistance patterns.</li>\n    <li><b>Prophylactic malaria medication use:</b> Crucial information. Was the patient taking any antimalarial prophylaxis? If so, which one, and was it taken correctly? This significantly impacts the likelihood and potential severity of malaria.</li>\n    <li><b>Timing of symptom onset relative to travel:</b> While the return date is given, knowing the *exact* day symptoms started relative to the return date is important for incubation period assessment.</li>\n    <li><b>Detailed description of fever pattern:</b> Is the fever truly intermittent? Does it occur daily, every other day, or irregularly? This can sometimes hint at the specific *Plasmodium* species (e.g., *P. vivax* or *P. ovale* often have tertian fevers - every 48 hours).</li>\n    <li><b>Presence of sweats:</b> Drenching sweats often accompany the fever and chills in malaria.</li>\n    <li><b>Splenomegaly or hepatomegaly:</b> Physical exam findings (though not part of the pre-visit report, asking about prior history or symptoms suggestive of enlarged spleen/liver would be helpful).</li>\n    <li><b>History of previous malaria infections:</b> Prior infection can influence immunity and presentation.</li>\n    <li><b>Any known exposure to sick individuals:</b> While less common for malaria transmission, it's a general question for febrile illness.</li>\n    <li><b>Blood in stool or dark urine:</b> These could suggest complications like severe malaria (e.g., blackwater fever).</li>\n    <li><b>Level of consciousness or confusion:</b> Important for assessing severity and potential cerebral malaria.</li>\n    <li><b>Vaccination history:</b> While not directly related to malaria diagnosis, it's standard practice and relevant for overall health assessment.</li>\n    <li><b>Allergies:</b> Standard medical history information.</li>\n    <li><b>Social History (e.g., alcohol, tobacco, drug use):</b> Standard medical history information.</li>\n    <li><b>Family History:</b> Standard medical history information.</li>\n</ul>"
+}

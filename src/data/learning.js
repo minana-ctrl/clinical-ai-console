@@ -1,0 +1,65 @@
+// Extracted verbatim from the Claude Design source, 'Clinical AI Console.dc.html'.
+// Radiology learning companion — CXR-14 sample cases and question sets.
+
+export const lcSamples = 'https://huggingface.co/spaces/google/rad-learn-companion-samples/resolve/main/images/';
+
+export const lcCases = [
+  { id: '01', img: '1.png', condition: 'Pleural Effusion',
+    findings: 'The findings on this Chest X-Ray are suggestive of Right-sided Pleural Effusion. This is indicated by the blunting of the right costophrenic angle and the presence of fluid in the right pleural space.',
+    questions: [
+      { question: 'Which of the following best describes the technical quality of this radiograph?',
+        choices: { A: 'Adequate inspiration and penetration', B: 'Significant patient rotation is present', C: 'The image is markedly under-penetrated', D: 'It is an AP supine view, not a PA upright view' },
+        answer: 'A',
+        rationale: 'The medial clavicles sit equidistant from the spinous processes and the lower thoracic vertebrae remain faintly visible through the cardiac shadow.',
+        hint: 'Check clavicle symmetry, then see whether you can trace the spine behind the heart.' },
+      { question: 'Compare the two costophrenic angles. What do you observe at the right angle?',
+        choices: { A: 'It is sharp and acute', B: 'It is blunted and opacified', C: 'It is unusually deep', D: 'It cannot be assessed on this view' },
+        answer: 'B',
+        rationale: 'A normally acute angle becomes blunted when the space between the lung base and the chest wall is occupied by dense material.',
+        hint: 'Look at the outer lower corner on the left of the image, where diaphragm meets chest wall.' },
+      { question: 'What shape does the upper border of the right basal opacity take?',
+        choices: { A: 'A concave border rising towards the lateral chest wall', B: 'A sharp horizontal line', C: 'A convex rounded margin', D: 'There is no definable upper border' },
+        answer: 'A',
+        rationale: 'A concave upper margin that sits highest laterally is characteristic of free material tracking up the chest wall under gravity.',
+        hint: 'Trace the top edge of the dense area outwards from the spine.' },
+      { question: 'Are air bronchograms visible within the right basal opacity?',
+        choices: { A: 'Yes, lucent branching structures run through it', B: 'No, the opacity is uniformly dense', C: 'Only at the apex', D: 'The opacity is too faint to assess' },
+        answer: 'B',
+        rationale: 'Air bronchograms require patent airways inside opacified lung. Their absence points to a process sitting outside the lung parenchyma.',
+        hint: 'Look for dark, branching tubular lines against the white area.' },
+      { question: 'Synthesising the blunted right costophrenic angle, the laterally rising concave margin and the absence of air bronchograms, what is the most likely finding?',
+        choices: { A: 'Right-sided pleural effusion', B: 'Right lower lobe pneumonia', C: 'Elevated right hemidiaphragm', D: 'Right lower lobe collapse' },
+        answer: 'A',
+        rationale: 'Blunting of the costophrenic angle with a laterally rising meniscus and no air bronchograms indicates fluid within the right pleural space.',
+        hint: 'The meniscus sign localises the process to the pleural space rather than the lung.' }
+    ] },
+  { id: '02', img: '4.png', condition: 'No Abnormalities',
+    findings: 'Based on the image, it appears to be a Normal Chest X-Ray. The lungs appear clear with no obvious signs of consolidation, nodules, or masses. The heart size seems normal and there are no apparent mediastinal abnormalities.',
+    questions: [
+      { question: 'Which of the following best describes the technical quality of this radiograph?',
+        choices: { A: 'Adequate inspiration and penetration', B: 'Poor inspiratory effort', C: 'Marked rotation to the right', D: 'Over-penetrated, with loss of lung detail' },
+        answer: 'A',
+        rationale: 'Nine to ten posterior ribs are visible above the diaphragm and the lower thoracic vertebrae can just be made out through the heart.',
+        hint: 'Count the posterior ribs above the diaphragm before judging anything else.' },
+      { question: 'How would you describe the cardiac silhouette?',
+        choices: { A: 'Normal size, occupying under half the internal thoracic diameter', B: 'Enlarged, occupying more than half', C: 'Globular, with a flask shape', D: 'Obscured along its left border' },
+        answer: 'A',
+        rationale: 'The transverse cardiac shadow spans less than half the inner width of the thorax and its borders are crisply outlined against aerated lung.',
+        hint: 'Compare the widest part of the heart with the widest inner width of the ribcage.' },
+      { question: 'What is the appearance of the two lung fields?',
+        choices: { A: 'Symmetrically aerated, with vascular markings tapering to the periphery', B: 'Increased opacity through one mid zone', C: 'Multiple rounded densities in both lungs', D: 'Loss of markings at both apices' },
+        answer: 'A',
+        rationale: 'Vessels taper smoothly outwards and both lungs show equal blackness, with no focal or diffuse increase in density.',
+        hint: 'Compare equivalent zones on the two sides at the same height.' },
+      { question: 'How do the costophrenic angles appear?',
+        choices: { A: 'Both are sharp and acute', B: 'The right is blunted', C: 'The left is blunted', D: 'Both are blunted' },
+        answer: 'A',
+        rationale: 'Sharp acute angles at both bases indicate that the pleural spaces and the lung bases are clear.',
+        hint: 'Look at the outer lower corner on each side, where diaphragm meets chest wall.' },
+      { question: 'Synthesising adequate technique, a normal cardiac silhouette, symmetrically aerated lungs and sharp costophrenic angles, what is the most likely finding?',
+        choices: { A: 'No abnormalities detected', B: 'Early left lower lobe consolidation', C: 'A small right pleural effusion', D: 'Bilateral hilar lymphadenopathy' },
+        answer: 'A',
+        rationale: 'Every structure assessed falls within normal limits, so the study is reported as showing no abnormality on this projection.',
+        hint: 'A normal study is a positive finding. State it explicitly rather than hedging.' }
+    ] }
+];

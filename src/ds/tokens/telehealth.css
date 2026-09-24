@@ -1,0 +1,14 @@
+/* Telehealth Connect 2026 (Tunis) theme — sampled from the event banner's blue→violet gradient.
+   Overrides the ICAIH values in colors.css/elevation.css; token names kept so no component changes.
+   Back to ICAIH: remove this file's import from styles.css. */
+:root{
+--icaih-emerald:#3656d6;--icaih-emerald-700:#2a45b3;--icaih-emerald-800:#1f3387;--icaih-emerald-300:#95a8ef;--icaih-emerald-100:#e0e6fb;--icaih-emerald-50:#f3f5fe;
+--icaih-leaf:#4a5fe6;--icaih-leaf-700:#3345c0;--icaih-leaf-100:#e3e6fc;
+--icaih-lime:#a78bfa;--icaih-lime-bright:#c4b5fd;--icaih-lime-600:#8b63ef;--icaih-lime-100:#efe9fd;
+--icaih-navy:#1c2263;--icaih-navy-700:#131850;--icaih-navy-300:#7d86c4;--icaih-navy-100:#e0e3f4;--icaih-navy-50:#f3f4fb;
+--icaih-ink:#0e1133;
+--status-info:#1c2263;--status-info-bg:#e0e3f4;
+--gradient-map:linear-gradient(160deg,var(--icaih-emerald) 0%,#6a64ea 55%,var(--icaih-lime-600) 100%);
+--shadow-brand:0 10px 26px rgba(54,86,214,.24);
+--shadow-focus:0 0 0 3px rgba(54,86,214,.28);
+}

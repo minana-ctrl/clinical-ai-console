@@ -1,0 +1,42 @@
+@import './ds/styles.css';
+
+/* Page-level rules carried over from the design's <helmet> block. */
+body { margin: 0; background: var(--neutral-50); }
+a { color: var(--text-link); text-decoration: none; }
+a:hover { color: var(--text-link-hover); text-decoration: underline; text-underline-offset: 3px; }
+
+@keyframes os-meter { 0%,100% { transform: scaleY(.25) } 50% { transform: scaleY(1) } }
+@keyframes os-rise { from { opacity: 0; transform: translateY(8px) } to { opacity: 1; transform: none } }
+
+@media (prefers-reduced-motion: reduce) { * { animation-duration: .01ms !important } }
+
+/* The live pre-visit report. Each turn rewrites the whole document, so what
+   changed is diffed against the previous version: new text grows in green and
+   settles to body colour, removed text is struck through and then collapses. */
+@keyframes ar-add { 0% { opacity: 0 } 25% { opacity: 0 } 100% { opacity: 1 } }
+@keyframes ar-settle { to { color: var(--text-body) } }
+@keyframes ar-drop { 0% { opacity: 1 } 70% { opacity: 0 } 100% { opacity: 0; font-size: 0 } }
+
+.ar-add { color: var(--icaih-emerald-800); animation: ar-add .9s forwards, ar-settle 0s forwards 4s; }
+.ar-remove { color: #b3261e; text-decoration: line-through; animation: ar-drop 1s forwards 3.5s; }
+
+.ar-report { display: flex; flex-direction: column; gap: 4px; }
+.ar-report h3, .ar-report h4, .ar-report h5, .ar-report h6 {
+  margin: 14px 0 2px; font: var(--type-label); font-size: var(--fs-body);
+  color: var(--text-heading);
+}
+.ar-report h3:first-child { margin-top: 0; }
+.ar-report p { margin: 0; font: var(--type-body); color: var(--text-body); text-wrap: pretty; }
+.ar-report ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 2px; }
+.ar-report li { font: var(--type-body); color: var(--text-body); text-wrap: pretty; }
+.ar-report li::marker { color: var(--brand-primary); }
+
+/* The design expresses hover through a `style-hover` attribute, which inline
+   styles can't carry. Each rule below is that attribute, one-for-one. */
+.hv-brand-border:hover { border-color: var(--border-brand); }
+.hv-brand:hover { border-color: var(--border-brand); color: var(--brand-primary); }
+.hv-neutral-bg:hover { background: var(--neutral-100); }
+.hv-lift-shadow:hover { box-shadow: var(--shadow-lg); }
+.hv-emerald-bg:hover { background: var(--icaih-emerald-50); }
+.hv-card-lift:hover { border-color: var(--brand-primary); transform: translateY(-1px); }
+.hv-primary-border:hover { border-color: var(--brand-primary); }

@@ -1,0 +1,206 @@
+{
+  "patient": "Sacha Silva",
+  "condition": "Migraine",
+  "thinking": "I thought my goal was to gather comprehensive information for the PCP, focusing on Sacha's asthma history and recent exacerbation. My reasoning involved using the EHR to guide clinical inquiry, differentiating symptoms, probing clues, and ensuring exhaustive fact-finding. I planned to start by identifying the main concern, then systematically inquire about asthma symptoms, their characteristics, and Albuterol use. I also intended to rule out infection and explore environmental factors. My strategy included adhering to strict question limits and phrasing, ensuring a structured, efficient interview to gather all necessary details before concluding.",
+  "turns": [
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for booking an appointment with your primary doctor. I am an assistant here to ask a few questions to help your doctor prepare for your visit. To start, what is your main concern today?",
+      "audio": "/sim/audio/4c8e2e289443b1a35501abe56d890a0be069db59.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "I've been having a really bad headache, and I just feel unwell.",
+      "audio": "/sim/audio/4df34143d8ac4786f34ab93a3848afdf340581d4.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise. Further details regarding onset, duration, quality, severity, timing, and modifying factors are needed.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did this headache begin?",
+      "audio": "/sim/audio/49add5a0486f2d8418339d4b4211fd426f37e01c.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It started about two days ago.",
+      "audio": "/sim/audio/5da3d60185cb04ce7714d73805aa9b3d5c603a60.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Further details regarding quality, severity, timing, and modifying factors are needed.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Can you describe the headache pain?",
+      "audio": "/sim/audio/5e04d32fb5561bc66e15c4683ec9bb74e2882d6a.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's a really bad headache, usually on one side of my head. It feels like it's throbbing or pulsing, and it definitely gets worse when I move around.",
+      "audio": "/sim/audio/4b14114049207172beaca0daa213c51020ea03cc.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Denies fever, neck stiffness, visual changes, nausea, or vomiting.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced nausea or vomiting with the headache?",
+      "audio": "/sim/audio/482016d4ebdad9ec2916ae613c9a2a0eafb6085f.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I feel sick to my stomach, and I've felt like I might even throw up.",
+      "audio": "/sim/audio/d651eb35e1da97a0325fe76b2873068a7a27c26a.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Denies fever, neck stiffness, or visual changes.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Are you sensitive to light or sound when the headache occurs?",
+      "audio": "/sim/audio/26efa9fe0ca38eb71b4efc6875ac52e43cca3055.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, definitely. Bright lights really bother my eyes, and loud noises really bother my ears when I have the headache.",
+      "audio": "/sim/audio/a8ffa81a15bdaa7b48896e41cf9dc5a824570d5a.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Denies fever, neck stiffness, or visual changes.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any changes in your vision, like blurry vision or seeing spots?",
+      "audio": "/sim/audio/cb87e098decf5c2328f50e81c864e419194a08f5.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, sometimes before the headache starts, I might see flashing lights or zigzags, or even blind spots.",
+      "audio": "/sim/audio/83cf2228c941c0d8541cbe9ad0dc7d15573789e7.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Denies fever or neck stiffness.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you taken any medication for the headache? If so, what and did it help?",
+      "audio": "/sim/audio/d21d87070d9684f529e970ecd20feef8e14f5702.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't taken anything for it.",
+      "audio": "/sim/audio/e1f9652cdc87d945cf1170010005bd49cf2d8619.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Denies taking any medication for the headache. Denies fever or neck stiffness.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had headaches like this before?",
+      "audio": "/sim/audio/d5bbb580ce8eea557573f51801763264a848280d.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, I have.",
+      "audio": "/sim/audio/41ec76aa42112753ad4c76ac0d8dd7db3ee7d333.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches. Denies taking any medication for the headache. Denies fever or neck stiffness.\n\n### Relevant Medical History (from EHR): \n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "How often do you typically experience these types of headaches?",
+      "audio": "/sim/audio/f31f59321979854cfbee11ce7884b0e40b9c7e2e.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It's usually a few times a year, I'd say.",
+      "audio": "/sim/audio/c08b89133e3b4d35866992f3b6aad09b3d95bc7f.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies fever or neck stiffness.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you noticed any triggers that seem to bring on these headaches?",
+      "audio": "/sim/audio/64e6a2e40e749b3da22fec9ebc05fbe42c7e1e8d.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Not really, I haven't noticed anything specific that brings them on.",
+      "audio": "/sim/audio/dc00d94cf5d938a8e5ae73c985462721db36a11e.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies fever or neck stiffness. Patient denies identifying specific triggers for the headaches.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Besides the headache, feeling unwell, nausea, and vision changes, are there any other symptoms you've experienced in the last two days?",
+      "audio": "/sim/audio/1613467a7f234c53d91be7f358f6f6c7c797ae92.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "Yes, strong smells make me feel worse. I also feel really tired and worn out. Sometimes I have trouble speaking or finding the right words, and my neck feels stiff.",
+      "audio": "/sim/audio/eb27ea8830cd4a5dfa646eae6c836ceaa7231613.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies identifying specific triggers for the headaches. Additionally reports worsening symptoms with strong smells, fatigue, dysphasia, and neck stiffness.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "When did the neck stiffness begin?",
+      "audio": "/sim/audio/bffc97ec150857f44e3c532ec8de1641662bca73.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "It started around the same time as the headache, about two days ago.",
+      "audio": "/sim/audio/ebe62a742dac8db04bb5c454f0e0b512b8cb2ffc.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies identifying specific triggers for the headaches. Additionally reports worsening symptoms with strong smells, fatigue, dysphasia, and neck stiffness, which began concurrently with the headache onset approximately two days ago.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you had a fever or chills recently?",
+      "audio": "/sim/audio/006cb6e47897c6ebaeba1c67722fc7f68d98cb80.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had a fever or chills.",
+      "audio": "/sim/audio/7fb5595b2932c63c299483f4b76845d0347c9592.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies identifying specific triggers for the headaches. Additionally reports worsening symptoms with strong smells, fatigue, dysphasia, and neck stiffness, which began concurrently with the headache onset approximately two days ago. Denies fever and chills.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you traveled outside of the area recently?",
+      "audio": "/sim/audio/22f86c4d30c78a88415410eef57085a4bf1a7238.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't. I've been at home.",
+      "audio": "/sim/audio/3e8ce1db242e52c0166adc47b9a33cc74b254456.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies identifying specific triggers for the headaches. Additionally reports worsening symptoms with strong smells, fatigue, dysphasia, and neck stiffness, which began concurrently with the headache onset approximately two days ago. Denies fever and chills. Denies recent travel.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you been around anyone who has been sick recently?",
+      "audio": "/sim/audio/180a043907bd77730c36df356f12f5b72eb70446.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't.",
+      "audio": "/sim/audio/9a85f099918534c8ca9276fd6dd46ca1c3e73ef1.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies identifying specific triggers for the headaches. Additionally reports worsening symptoms with strong smells, fatigue, dysphasia, and neck stiffness, which began concurrently with the headache onset approximately two days ago. Denies fever and chills. Denies recent travel. Denies recent exposure to sick contacts.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Have you experienced any recent injuries, especially to your head or neck?",
+      "audio": "/sim/audio/8010c36dae2dc90800b472cad032aab275e67c4d.mp3",
+      "report": null
+    },
+    {
+      "speaker": "patient",
+      "text": "No, I haven't had any recent injuries to my head or neck.",
+      "audio": "/sim/audio/d68ca54bb71164c8ea0fc799012617a94944a1d5.mp3",
+      "report": "### Primary concern:\n\nHeadache and feeling unwell.\n\n### History of Present Illness (HPI):\n\nPatient reports onset of headache and generalized malaise approximately two days ago. Headache is described as severe, unilateral, throbbing/pulsating in quality, and exacerbated by movement. Reports associated nausea and near-emesis. Patient also reports photophobia and phonophobia associated with the headache. Reports experiencing visual aura prior to headache onset, including flashing lights, zigzags, and blind spots. Patient reports a history of similar headaches, occurring approximately a few times per year. Denies taking any medication for the headache. Denies identifying specific triggers for the headaches. Additionally reports worsening symptoms with strong smells, fatigue, dysphasia, and neck stiffness, which began concurrently with the headache onset approximately two days ago. Denies fever and chills. Denies recent travel. Denies recent exposure to sick contacts. Denies recent head or neck injury.\n\n### Relevant Medical History (from EHR):\n\n*   Asthma (diagnosed 2010-05-15, currently active).\n*   Asthma exacerbation (2023-08-10).\n\n### Medications (from EHR and interview):\n\n*   Albuterol 90 mcg/actuation Metered Dose Inhaler: 2 puffs every 4-6 hours as needed for wheezing. (Prescribed 2023-08-10)."
+    },
+    {
+      "speaker": "interviewer",
+      "text": "Thank you for answering my questions. I have everything needed to prepare a report for your visit.",
+      "audio": "/sim/audio/5a5f0db9ad84c9e452479d2e9267743f4d333842.mp3",
+      "report": null
+    }
+  ],
+  "evaluation": "<h3 class=\"helpful\">Helpful Facts:</h3>\n<ul>\n    <li><b>Headache Characteristics:</b> Severe, unilateral, throbbing/pulsating quality. This aligns with typical migraine headache descriptions.</li>\n    <li><b>Exacerbating Factors:</b> Worsened by movement (physical activity). This is a common feature of migraine.</li>\n    <li><b>Associated Symptoms:</b> Nausea, near-emesis, photophobia (sensitivity to light), and phonophobia (sensitivity to sound). These are classic migraine-associated symptoms.</li>\n    <li><b>Aura:</b> Reports visual aura (flashing lights, zigzags, blind spots) preceding the headache. This is a key feature of migraine with aura.</li>\n    <li><b>Recurrence:</b> History of similar headaches occurring a few times per year. This suggests a recurrent headache disorder, consistent with migraine.</li>\n    <li><b>Worsening Factors:</b> Worsening symptoms with strong smells (osmophobia) and fatigue. These are known migraine triggers or exacerbating factors.</li>\n    <li><b>Negative Symptoms (Pertinent Negatives):</b> Denies fever and chills (makes infectious causes less likely), denies recent head/neck injury (rules out traumatic causes), denies recent travel or sick contacts (reduces likelihood of infectious causes).</li>\n    <li><b>Duration:</b> Onset approximately two days ago, suggesting a duration that fits within a migraine episode.</li>\n    <li><b>Dysphasia and Neck Stiffness:</b> While less typical, these symptoms were reported concurrently and could be part of a complex migraine presentation or warrant further investigation.</li>\n</ul>\n\n<h3 class=\"missing\">What wasn't covered but would be helpful:</h3>\n<ul>\n    <li><b>Family History:</b> Inquiring about a family history of migraines is crucial, as migraines often have a genetic component.</li>\n    <li><b>Detailed Aura Description:</b> While aura is mentioned, more detail (duration of aura, specific sequence of symptoms, whether it's always the same) would be helpful.</li>\n    <li><b>Headache Duration:</b> The report states onset was two days ago, but the *duration* of the current headache episode is not specified (e.g., has it been continuous for 2 days, or episodic?).</li>\n    <li><b>Pain Scale:</b> A numerical pain scale rating (e.g., 1-10) would quantify the severity.</li>\n    <li><b>Impact on Function:</b> How does the headache affect daily activities (work, school, social life)? This helps assess the disability caused by the headaches.</li>\n    <li><b>Previous Treatments/Effectiveness:</b> Although the patient denies taking medication *for this headache*, asking about previous treatments for similar headaches and their effectiveness (or lack thereof) would be valuable.</li>\n    <li><b>Specific Triggers:</b> While the patient denies *identifying* specific triggers, a more detailed exploration of potential triggers (dietary, hormonal, stress, sleep patterns) might reveal patterns.</li>\n    <li><b>Neurological Exam Findings (if available):</b> Although this is a pre-visit report, any prior neurological exam findings (even if normal) would be helpful context.</li>\n    <li><b>Associated Symptoms (Further Detail):</b> Any associated dizziness, vertigo, or changes in vision *during* the headache (beyond the aura) could be relevant.</li>\n    <li><b>Menstrual History (if applicable):</b> For female patients, inquiring about the relationship between headaches and the menstrual cycle (menstrual migraine) is important.</li>\n    <li><b>Review of Systems (Broader):</b> A more comprehensive review of systems might uncover other relevant symptoms or comorbidities.</li>\n</ul>"
+}
